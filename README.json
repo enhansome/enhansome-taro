@@ -14,7 +14,7 @@
             "last_commit": "2026-08-11T09:35:40Z",
             "owner": "NervJS",
             "repo": "taro",
-            "stars": 37636
+            "stars": 37638
           }
         },
         {
@@ -1134,7 +1134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T06:13:35.754Z",
+    "last_updated": "2026-08-14T06:10:56.352Z",
     "original_repository": "jd-opensource/awesome-taro",
     "original_repository_sha": "6968cd1988be4cf0e2b2a97d1e90c07e90ff7280",
     "enhanced_repository": "enhansome/enhansome-taro",
