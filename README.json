@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T10:07:56Z",
             "owner": "NervJS",
             "repo": "taro",
-            "stars": 37651
+            "stars": 37655
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-30T09:46:04Z",
             "owner": "jd-opensource",
             "repo": "taro-ui",
-            "stars": 4723
+            "stars": 4725
           }
         }
       ],
@@ -1206,7 +1206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T05:23:37.859Z",
+    "last_updated": "2026-08-23T05:25:54.876Z",
     "original_repository": "jd-opensource/awesome-taro",
     "original_repository_id": 156717059,
     "original_repository_sha": "6968cd1988be4cf0e2b2a97d1e90c07e90ff7280",
