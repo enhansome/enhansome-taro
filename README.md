@@ -17,14 +17,15 @@
 
 ## 生态资源
 
+* [Taro UI Vue](https://github.com/psaren/taro-ui-vue) ⚠️ Archived
 * [Taro UI](https://taro-ui.jd.com)
 * [Taro UI Vue3](https://b2nil.github.io/taro-ui-vue3/)
-* [Taro UI Vue](https://github.com/psaren/taro-ui-vue) ⚠️ Archived
 * [Taroify UI](https://taroify.gitee.io/taroify.com/introduce/)
 * [更多](https://nervjs.github.io/taro/docs/redux)
 
 ## 文章教程
 
+* [Taro 与 Redux 结合使用教程](https://github.com/imageslr/taro-library#%E5%BC%95%E5%85%A5-redux) ⭐ 371 | 🐛 1 | 🌐 JavaScript | 📅 2022-02-13
 * [官方博客](https://nervjs.github.io/taro/blog)
 * [不敢阅读 npm 包源码？带你揭秘 taro init 背后的哲学](https://juejin.im/post/5c21f4e5f265da61117a54a0)
 * [从 0 到 1 构建适配不同端（微信小程序、H5、React-Native 等）的 taro + dva 应用](https://juejin.im/post/5bb1766d5188255c3272cdd0)
@@ -43,7 +44,6 @@
 * [微信小程序及 h5,基于 taro，zoro 最佳实践探索](https://www.jianshu.com/p/7c27dbbc080f)
 * [手把手教你用 Taro 框架写一个图像处理类微信小程序](https://juejin.im/post/5c3c8c58f265da611a4813a9)
 * [Taro 多端开发的正确姿势：打造三端统一的网易严选（小程序、H5、React Native）](https://juejin.im/post/5c6a151f518825625e4ac830)
-* [Taro 与 Redux 结合使用教程](https://github.com/imageslr/taro-library#%E5%BC%95%E5%85%A5-redux) ⭐ 371 | 🐛 1 | 🌐 JavaScript | 📅 2022-02-13
 * [微信小程序开发之影分身术](https://juejin.im/post/5c788d28e51d4560a82be8d2)
 * [Taro 3.x 跨版本升级踩坑指南（将 Taro 3.0.14 跨版本升级到 Taro 3.5.3 项目实战）](https://juejin.cn/post/7148430666906992647)
 

@@ -12,7 +12,7 @@
             "archived": false,
             "id": 128624453,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T03:29:44Z",
+            "last_commit": "2026-08-24T07:32:17Z",
             "owner": "NervJS",
             "repo": "taro",
             "stars": 37655
@@ -35,6 +35,48 @@
         }
       ],
       "title": "官方资源"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Taro UI Vue",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 266048696,
+            "language": "SCSS",
+            "last_commit": "2021-08-14T07:46:48Z",
+            "owner": "psaren",
+            "repo": "taro-ui-vue",
+            "stars": 201
+          }
+        }
+      ],
+      "title": "生态资源"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Taro 与 Redux 结合使用教程",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 177940766,
+            "language": "JavaScript",
+            "last_commit": "2022-02-13T14:33:28Z",
+            "owner": "imageslr",
+            "repo": "taro-library",
+            "stars": 371
+          }
+        }
+      ],
+      "title": "文章教程"
     },
     {
       "description": null,
@@ -683,6 +725,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "taro-rn-demo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 325499676,
+                "language": "TypeScript",
+                "last_commit": "2021-01-14T07:57:20Z",
+                "owner": "wyzwhp",
+                "repo": "taro-rn-demo",
+                "stars": 29
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Taro3.2"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "基于 Taro + Taro-ui + Typescript + redux 开发的网易云音乐小程序",
               "description": null,
               "children": [],
@@ -1206,7 +1270,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:34:53.975Z",
+    "last_updated": "2026-08-24T14:01:53.764Z",
     "original_repository": "jd-opensource/awesome-taro",
     "original_repository_id": 156717059,
     "original_repository_sha": "6968cd1988be4cf0e2b2a97d1e90c07e90ff7280",
