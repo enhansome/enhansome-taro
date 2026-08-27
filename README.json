@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T07:32:17Z",
             "owner": "NervJS",
             "repo": "taro",
-            "stars": 37654
+            "stars": 37653
           }
         },
         {
@@ -1086,7 +1086,7 @@
                 "last_commit": "2020-03-25T07:02:50Z",
                 "owner": "hugetiny",
                 "repo": "quit-smoking",
-                "stars": 48
+                "stars": 49
               }
             }
           ],
@@ -1270,9 +1270,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:30:49.363Z",
-    "original_repository": "jd-opensource/awesome-taro",
-    "original_repository_id": 156717059,
+    "last_updated": "2026-08-27T12:06:13.566Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 156717059,
+      "language": null,
+      "last_commit": "2024-04-11T06:13:51Z",
+      "owner": "jd-opensource",
+      "repo": "awesome-taro",
+      "stars": 2924
+    },
     "original_repository_sha": "6968cd1988be4cf0e2b2a97d1e90c07e90ff7280",
     "enhanced_repository": "enhansome/enhansome-taro",
     "enhanced_repository_description": null,
