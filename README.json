@@ -15,8 +15,9 @@
             "last_commit": "2026-08-24T07:32:17Z",
             "owner": "NervJS",
             "repo": "taro",
-            "stars": 37652
-          }
+            "stars": 37655
+          },
+          "first_seen": "2026-08-28T17:08:14.622Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-07-30T09:46:04Z",
             "owner": "jd-opensource",
             "repo": "taro-ui",
-            "stars": 4727
-          }
+            "stars": 4728
+          },
+          "first_seen": "2026-08-28T17:08:14.622Z"
         }
       ],
       "title": "官方资源"
@@ -52,7 +54,8 @@
             "owner": "psaren",
             "repo": "taro-ui-vue",
             "stars": 201
-          }
+          },
+          "first_seen": "2026-08-28T17:08:14.622Z"
         }
       ],
       "title": "生态资源"
@@ -73,7 +76,8 @@
             "owner": "imageslr",
             "repo": "taro-library",
             "stars": 371
-          }
+          },
+          "first_seen": "2026-08-28T17:08:14.622Z"
         }
       ],
       "title": "文章教程"
@@ -94,7 +98,8 @@
             "owner": "TigerHee",
             "repo": "taro-request",
             "stars": 249
-          }
+          },
+          "first_seen": "2026-08-28T17:08:14.622Z"
         },
         {
           "node_type": "item",
@@ -109,7 +114,8 @@
             "owner": "js-newbee",
             "repo": "taro-best-practices",
             "stars": 127
-          }
+          },
+          "first_seen": "2026-08-28T17:08:14.622Z"
         },
         {
           "node_type": "item",
@@ -124,7 +130,8 @@
             "owner": "SpringHgui",
             "repo": "axios-taro-adapter",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T17:08:14.622Z"
         }
       ],
       "title": "开发技巧"
@@ -147,7 +154,8 @@
                 "owner": "wuba",
                 "repo": "Taro-Mortgage-Calculator",
                 "stars": 431
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -162,7 +170,8 @@
                 "owner": "wuba",
                 "repo": "taro-playground",
                 "stars": 293
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -177,7 +186,8 @@
                 "owner": "rick-and-morty-wiki",
                 "repo": "rick-and-morty-wiki",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             }
           ],
           "description": null,
@@ -199,7 +209,8 @@
                 "owner": "NervJS",
                 "repo": "taro-zhihu-sample",
                 "stars": 351
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -214,7 +225,8 @@
                 "owner": "NervJS",
                 "repo": "taro-zhihu-sample",
                 "stars": 351
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -229,7 +241,8 @@
                 "owner": "kala888",
                 "repo": "tixwork",
                 "stars": 316
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -244,7 +257,8 @@
                 "owner": "NervJS",
                 "repo": "taro-sample-weapp",
                 "stars": 164
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -259,7 +273,8 @@
                 "owner": "NervJS",
                 "repo": "taro-sample-weapp",
                 "stars": 164
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -274,7 +289,8 @@
                 "owner": "NervJS",
                 "repo": "taro-v2ex",
                 "stars": 157
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -289,7 +305,8 @@
                 "owner": "NervJS",
                 "repo": "taro-v2ex",
                 "stars": 157
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -304,7 +321,8 @@
                 "owner": "didilinkin",
                 "repo": "elf-taro",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -319,7 +337,8 @@
                 "owner": "NervJS",
                 "repo": "taro-components-sample",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -334,7 +353,8 @@
                 "owner": "NervJS",
                 "repo": "TodoMVC",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -349,7 +369,8 @@
                 "owner": "NervJS",
                 "repo": "TodoMVC",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -364,7 +385,8 @@
                 "owner": "terryso",
                 "repo": "super9",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -379,7 +401,8 @@
                 "owner": "MuxinFeng",
                 "repo": "taro-savePassword",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             }
           ],
           "description": null,
@@ -401,7 +424,8 @@
                 "owner": "ownx",
                 "repo": "taro-kit",
                 "stars": 706
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -416,7 +440,8 @@
                 "owner": "NervJS",
                 "repo": "taro-zhihu-sample",
                 "stars": 351
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -431,7 +456,8 @@
                 "owner": "kala888",
                 "repo": "tixwork",
                 "stars": 316
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -446,7 +472,8 @@
                 "owner": "NervJS",
                 "repo": "taro-sample-weapp",
                 "stars": 164
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -461,7 +488,8 @@
                 "owner": "NervJS",
                 "repo": "taro-v2ex",
                 "stars": 157
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -476,7 +504,8 @@
                 "owner": "web-farmer",
                 "repo": "wedding-app",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -491,7 +520,8 @@
                 "owner": "NervJS",
                 "repo": "taro-components-sample",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -506,7 +536,8 @@
                 "owner": "NervJS",
                 "repo": "TodoMVC",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -521,7 +552,8 @@
                 "owner": "MoonCheung",
                 "repo": "zhihu-applet",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -536,7 +568,8 @@
                 "owner": "NervJS",
                 "repo": "taro-redux-sample",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -551,7 +584,8 @@
                 "owner": "zhixiaoqiang",
                 "repo": "taroCloud",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             }
           ],
           "description": null,
@@ -573,7 +607,8 @@
                 "owner": "imageslr",
                 "repo": "taro-library",
                 "stars": 371
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -588,7 +623,8 @@
                 "owner": "SmallRuralDog",
                 "repo": "yundocs",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -603,7 +639,8 @@
                 "owner": "zuoge85",
                 "repo": "taro-dva",
                 "stars": 149
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -618,7 +655,8 @@
                 "owner": "didilinkin",
                 "repo": "elf-taro",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -633,7 +671,8 @@
                 "owner": "NervJS",
                 "repo": "taro-todo",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -648,7 +687,8 @@
                 "owner": "FaureWu",
                 "repo": "ztaro",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -663,7 +703,8 @@
                 "owner": "zcSkr",
                 "repo": "taro-dva-wxParse",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -678,7 +719,8 @@
                 "owner": "hyyqcweb",
                 "repo": "taro-gank",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -693,7 +735,8 @@
                 "owner": "NervJS",
                 "repo": "taro-apis-sample",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -708,7 +751,8 @@
                 "owner": "qwIvan",
                 "repo": "taro-demo-todolist",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             }
           ],
           "description": null,
@@ -736,7 +780,8 @@
                 "owner": "wyzwhp",
                 "repo": "taro-rn-demo",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             }
           ],
           "description": null,
@@ -758,7 +803,8 @@
                 "owner": "lsqy",
                 "repo": "taro-music",
                 "stars": 2010
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -773,7 +819,8 @@
                 "owner": "innocces",
                 "repo": "taro-hooks",
                 "stars": 452
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -788,7 +835,8 @@
                 "owner": "psaren",
                 "repo": "taro-ui-vue",
                 "stars": 201
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -803,7 +851,8 @@
                 "owner": "ShaoGongBra",
                 "repo": "taro-form",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -818,7 +867,8 @@
                 "owner": "nasawz",
                 "repo": "niceup",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -833,7 +883,8 @@
                 "owner": "whyour",
                 "repo": "mini-work",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -848,7 +899,8 @@
                 "owner": "Everytimeyumi",
                 "repo": "hand-in-hand",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -863,7 +915,8 @@
                 "owner": "ShaoGongBra",
                 "repo": "taro-html-view",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             }
           ],
           "description": null,
@@ -885,7 +938,8 @@
                 "owner": "lsqy",
                 "repo": "taro-music",
                 "stars": 2010
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -900,7 +954,8 @@
                 "owner": "wizard-a",
                 "repo": "taro-mall",
                 "stars": 911
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -915,7 +970,8 @@
                 "owner": "hi-our",
                 "repo": "hi-face",
                 "stars": 337
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -930,7 +986,8 @@
                 "owner": "Mayandev",
                 "repo": "classmate-map",
                 "stars": 156
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -945,7 +1002,8 @@
                 "owner": "web-farmer",
                 "repo": "wedding-app",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -960,7 +1018,8 @@
                 "owner": "moremind",
                 "repo": "MiniBlogApp",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             }
           ],
           "description": null,
@@ -982,7 +1041,8 @@
                 "owner": "nslogx",
                 "repo": "Gitter",
                 "stars": 3678
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -997,7 +1057,8 @@
                 "owner": "js-newbee",
                 "repo": "taro-yanxuan",
                 "stars": 2659
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -1012,7 +1073,8 @@
                 "owner": "EasyTuan",
                 "repo": "taro-msparis",
                 "stars": 1354
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -1027,7 +1089,8 @@
                 "owner": "bozaigao",
                 "repo": "Taro-demo",
                 "stars": 282
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -1042,7 +1105,8 @@
                 "owner": "o2team",
                 "repo": "taro-ebook-source",
                 "stars": 233
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -1057,7 +1121,8 @@
                 "owner": "huangzhuangjia",
                 "repo": "taro-music",
                 "stars": 167
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -1072,7 +1137,8 @@
                 "owner": "abc-club",
                 "repo": "taro-music-ts",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             },
             {
               "node_type": "item",
@@ -1087,7 +1153,8 @@
                 "owner": "hugetiny",
                 "repo": "quit-smoking",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T17:08:14.622Z"
             }
           ],
           "description": null,
@@ -1113,7 +1180,8 @@
             "owner": "chuyun",
             "repo": "taro-plugin-canvas",
             "stars": 516
-          }
+          },
+          "first_seen": "2026-08-28T17:08:14.622Z"
         },
         {
           "node_type": "item",
@@ -1128,7 +1196,8 @@
             "owner": "innocces",
             "repo": "taro-hooks",
             "stars": 452
-          }
+          },
+          "first_seen": "2026-08-28T17:08:14.622Z"
         },
         {
           "node_type": "item",
@@ -1143,7 +1212,8 @@
             "owner": "lblblong",
             "repo": "tarojs-router-next",
             "stars": 253
-          }
+          },
+          "first_seen": "2026-08-28T17:08:14.622Z"
         },
         {
           "node_type": "item",
@@ -1158,7 +1228,8 @@
             "owner": "WsmDyj",
             "repo": "echarts-for-taro",
             "stars": 188
-          }
+          },
+          "first_seen": "2026-08-28T17:08:14.622Z"
         },
         {
           "node_type": "item",
@@ -1173,7 +1244,8 @@
             "owner": "fjc0k",
             "repo": "taro-axios",
             "stars": 140
-          }
+          },
+          "first_seen": "2026-08-28T17:08:14.622Z"
         },
         {
           "node_type": "item",
@@ -1188,7 +1260,8 @@
             "owner": "xioxin",
             "repo": "taro-f2",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-28T17:08:14.622Z"
         },
         {
           "node_type": "item",
@@ -1203,7 +1276,8 @@
             "owner": "mpfast",
             "repo": "TaroCreator",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-28T17:08:14.622Z"
         },
         {
           "node_type": "item",
@@ -1218,7 +1292,8 @@
             "owner": "fjc0k",
             "repo": "mounted",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T17:08:14.622Z"
         },
         {
           "node_type": "item",
@@ -1233,7 +1308,8 @@
             "owner": "wuba",
             "repo": "taro-visualization",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T17:08:14.622Z"
         },
         {
           "node_type": "item",
@@ -1248,7 +1324,8 @@
             "owner": "guozimo",
             "repo": "taro-bdMark",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T17:08:14.622Z"
         },
         {
           "node_type": "item",
@@ -1263,14 +1340,15 @@
             "owner": "wukongyang",
             "repo": "taro-svga",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T17:08:14.622Z"
         }
       ],
       "title": "第三方库和组件"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:04:14.789Z",
+    "last_updated": "2026-08-28T17:08:14.622Z",
     "original_repository_info": {
       "archived": false,
       "id": 156717059,
@@ -1278,7 +1356,7 @@
       "last_commit": "2024-04-11T06:13:51Z",
       "owner": "jd-opensource",
       "repo": "awesome-taro",
-      "stars": 2924
+      "stars": 2925
     },
     "original_repository_sha": "6968cd1988be4cf0e2b2a97d1e90c07e90ff7280",
     "enhanced_repository": "enhansome/enhansome-taro",
