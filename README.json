@@ -10,12 +10,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。",
+            "homepage": "https://docs.taro.zone/",
             "id": 128624453,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T07:32:17Z",
+            "open_issues": 1596,
             "owner": "NervJS",
             "repo": "taro",
-            "stars": 37655
+            "stars": 37657,
+            "topics": [
+              "javascript",
+              "jquery",
+              "nerv",
+              "nervjs",
+              "react",
+              "react-native",
+              "reactjs",
+              "taro",
+              "typescript",
+              "vue",
+              "vue3",
+              "wechat",
+              "wechat-mini-program",
+              "weixin",
+              "wxapp"
+            ]
           },
           "first_seen": "2026-08-28T17:08:14.622Z"
         },
@@ -26,12 +47,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一款基于 Taro 框架开发的多端 UI 组件库",
+            "homepage": "https://jd-opensource.github.io/taro-ui/",
             "id": 139435578,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-30T09:46:04Z",
+            "open_issues": 539,
             "owner": "jd-opensource",
             "repo": "taro-ui",
-            "stars": 4728
+            "stars": 4728,
+            "topics": [
+              "javascript",
+              "nervjs",
+              "react",
+              "taro",
+              "taro-compontent",
+              "ui-design",
+              "ui-kit",
+              "wechat-mini-program",
+              "wechat-weapp",
+              "wxapp"
+            ]
           },
           "first_seen": "2026-08-28T17:08:14.622Z"
         }
@@ -48,12 +85,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "UI KIT for Taro/vue",
+            "homepage": null,
             "id": 266048696,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2021-08-14T07:46:48Z",
+            "open_issues": 14,
             "owner": "psaren",
             "repo": "taro-ui-vue",
-            "stars": 201
+            "stars": 201,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:08:14.622Z"
         }
@@ -70,12 +112,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Taro + Redux + 本地 Mock Server 微信小程序示例项目",
+            "homepage": null,
             "id": 177940766,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-02-13T14:33:28Z",
+            "open_issues": 1,
             "owner": "imageslr",
             "repo": "taro-library",
-            "stars": 371
+            "stars": 371,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:08:14.622Z"
         }
@@ -92,12 +139,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "对Taro.request进行封装",
+            "homepage": null,
             "id": 188339985,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-12-02T02:23:04Z",
+            "open_issues": 4,
             "owner": "TigerHee",
             "repo": "taro-request",
-            "stars": 249
+            "stars": 249,
+            "topics": [
+              "taro",
+              "taro-request"
+            ]
           },
           "first_seen": "2026-08-28T17:08:14.622Z"
         },
@@ -108,12 +163,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "使用 Taro 开发微信小程序、编译 H5 + React Native 的最佳实践",
+            "homepage": null,
             "id": 165767267,
             "language": null,
+            "license": null,
             "last_commit": "2019-03-07T12:46:45Z",
+            "open_issues": 2,
             "owner": "js-newbee",
             "repo": "taro-best-practices",
-            "stars": 127
+            "stars": 127,
+            "topics": [
+              "taro"
+            ]
           },
           "first_seen": "2026-08-28T17:08:14.622Z"
         },
@@ -124,12 +186,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "axios adaptor for taro.request",
+            "homepage": null,
             "id": 516276124,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-26T07:01:24Z",
+            "open_issues": 1,
             "owner": "SpringHgui",
             "repo": "axios-taro-adapter",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "axios",
+              "http",
+              "taro"
+            ]
           },
           "first_seen": "2026-08-28T17:08:14.622Z"
         }
@@ -148,12 +219,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "首个 Taro 3 多端统一实例 - 支持 React Native，Weapp，H5。",
+                "homepage": "https://wuba.github.io/Taro-Mortgage-Calculator",
                 "id": 325483738,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-08-05T02:17:35Z",
+                "open_issues": 17,
                 "owner": "wuba",
                 "repo": "Taro-Mortgage-Calculator",
-                "stars": 431
+                "stars": 431,
+                "topics": [
+                  "cross-platform",
+                  "miniprogram",
+                  "react",
+                  "react-native",
+                  "react-native-app",
+                  "taro",
+                  "taro3",
+                  "webapp",
+                  "wechat",
+                  "wechat-app",
+                  "wechat-mini-program"
+                ]
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -164,12 +252,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Taro Playground App is a cross-platform application developed using Taro, to help developers develop and debug Taro applications. ",
+                "homepage": "https://wuba.github.io/taro-playground/",
                 "id": 406196271,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-04T07:52:40Z",
+                "open_issues": 27,
                 "owner": "wuba",
                 "repo": "taro-playground",
-                "stars": 293
+                "stars": 293,
+                "topics": [
+                  "android",
+                  "app",
+                  "developer-tools",
+                  "expo",
+                  "fastlane",
+                  "ios",
+                  "javascript",
+                  "metro",
+                  "miniprogram",
+                  "playground",
+                  "react",
+                  "react-native",
+                  "react-native-app",
+                  "taro",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -180,12 +289,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A multi-platform unified project based on Taro 3.2+ - supports React Native, Weapp, H5",
+                "homepage": null,
                 "id": 369139551,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2021-11-18T00:40:09Z",
+                "open_issues": 4,
                 "owner": "rick-and-morty-wiki",
                 "repo": "rick-and-morty-wiki",
-                "stars": 92
+                "stars": 92,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             }
@@ -203,12 +317,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a demo based on taro",
+                "homepage": null,
                 "id": 139847594,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-03-04T04:13:11Z",
+                "open_issues": 24,
                 "owner": "NervJS",
                 "repo": "taro-zhihu-sample",
-                "stars": 351
+                "stars": 351,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -219,12 +338,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a demo based on taro",
+                "homepage": null,
                 "id": 139847594,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-03-04T04:13:11Z",
+                "open_issues": 24,
                 "owner": "NervJS",
                 "repo": "taro-zhihu-sample",
-                "stars": 351
+                "stars": 351,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -235,12 +359,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "一个低码解决方案",
+                "homepage": null,
                 "id": 219470754,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2024-05-23T14:14:09Z",
+                "open_issues": 5,
                 "owner": "kala888",
                 "repo": "tixwork",
-                "stars": 316
+                "stars": 316,
+                "topics": [
+                  "java",
+                  "lowcode",
+                  "mybatis",
+                  "mybatis-plus",
+                  "react",
+                  "react-native",
+                  "springboot3",
+                  "taro3",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -251,12 +390,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "与小程序原生融合的示例",
+                "homepage": null,
                 "id": 148117743,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-01-07T04:15:25Z",
+                "open_issues": 39,
                 "owner": "NervJS",
                 "repo": "taro-sample-weapp",
-                "stars": 164
+                "stars": 164,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -267,12 +411,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "与小程序原生融合的示例",
+                "homepage": null,
                 "id": 148117743,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-01-07T04:15:25Z",
+                "open_issues": 39,
                 "owner": "NervJS",
                 "repo": "taro-sample-weapp",
-                "stars": 164
+                "stars": 164,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -283,12 +432,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "使用 Taro 实现 V2EX 小程序",
+                "homepage": null,
                 "id": 144583200,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-07-13T01:58:55Z",
+                "open_issues": 4,
                 "owner": "NervJS",
                 "repo": "taro-v2ex",
-                "stars": 157
+                "stars": 157,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -299,12 +453,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "使用 Taro 实现 V2EX 小程序",
+                "homepage": null,
                 "id": 144583200,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-07-13T01:58:55Z",
+                "open_issues": 4,
                 "owner": "NervJS",
                 "repo": "taro-v2ex",
-                "stars": 157
+                "stars": 157,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -315,12 +474,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Taro 小程序 脚手架 (Taro 3 + Dva + Typescript + Immer) - 内置 Redux 计数器, 异步数据请求 与 腾讯小程序地图 demo",
+                "homepage": null,
                 "id": 167798931,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-03-27T10:18:13Z",
+                "open_issues": 0,
                 "owner": "didilinkin",
                 "repo": "elf-taro",
-                "stars": 69
+                "stars": 69,
+                "topics": [
+                  "cz-customizable",
+                  "dvajs",
+                  "immer",
+                  "lodash",
+                  "taro",
+                  "taro-ui",
+                  "tencent-map-sdk",
+                  "typescript",
+                  "wechat-mini-program"
+                ]
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -331,12 +505,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "taro components sample",
+                "homepage": null,
                 "id": 137664713,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-03-04T03:28:10Z",
+                "open_issues": 12,
                 "owner": "NervJS",
                 "repo": "taro-components-sample",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -347,12 +526,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TodoMVC with Taro + Redux",
+                "homepage": null,
                 "id": 140439242,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-05-17T04:38:50Z",
+                "open_issues": 8,
                 "owner": "NervJS",
                 "repo": "TodoMVC",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -363,12 +547,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TodoMVC with Taro + Redux",
+                "homepage": null,
                 "id": 140439242,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-05-17T04:38:50Z",
+                "open_issues": 8,
                 "owner": "NervJS",
                 "repo": "TodoMVC",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -379,12 +568,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "短视频水印杀手是本人使用taro框架, 开发的第一个小程序练手小作",
+                "homepage": null,
                 "id": 336615724,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2021-02-21T04:42:49Z",
+                "open_issues": 1,
                 "owner": "terryso",
                 "repo": "super9",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -395,12 +589,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "☄☄彗星密码本，基于Taro的微信小程序",
+                "homepage": null,
                 "id": 343783648,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-08-18T12:38:40Z",
+                "open_issues": 1,
                 "owner": "MuxinFeng",
                 "repo": "taro-savePassword",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             }
@@ -418,12 +617,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🏆✌️taro 小程序脚手架。 特性： 封装api、redux优雅集成、生成海报类，异常日志上报。 如果能帮到你，就给个 star😊",
+                "homepage": "https://shudong.wang",
                 "id": 150226422,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2021-11-30T11:21:48Z",
+                "open_issues": 8,
                 "owner": "ownx",
                 "repo": "taro-kit",
-                "stars": 706
+                "stars": 706,
+                "topics": [
+                  "react",
+                  "redux",
+                  "taro",
+                  "taro-kit",
+                  "xiaochengxu"
+                ]
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -434,12 +644,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a demo based on taro",
+                "homepage": null,
                 "id": 139847594,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-03-04T04:13:11Z",
+                "open_issues": 24,
                 "owner": "NervJS",
                 "repo": "taro-zhihu-sample",
-                "stars": 351
+                "stars": 351,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -450,12 +665,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "一个低码解决方案",
+                "homepage": null,
                 "id": 219470754,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2024-05-23T14:14:09Z",
+                "open_issues": 5,
                 "owner": "kala888",
                 "repo": "tixwork",
-                "stars": 316
+                "stars": 316,
+                "topics": [
+                  "java",
+                  "lowcode",
+                  "mybatis",
+                  "mybatis-plus",
+                  "react",
+                  "react-native",
+                  "springboot3",
+                  "taro3",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -466,12 +696,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "与小程序原生融合的示例",
+                "homepage": null,
                 "id": 148117743,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-01-07T04:15:25Z",
+                "open_issues": 39,
                 "owner": "NervJS",
                 "repo": "taro-sample-weapp",
-                "stars": 164
+                "stars": 164,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -482,12 +717,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "使用 Taro 实现 V2EX 小程序",
+                "homepage": null,
                 "id": 144583200,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-07-13T01:58:55Z",
+                "open_issues": 4,
                 "owner": "NervJS",
                 "repo": "taro-v2ex",
-                "stars": 157
+                "stars": 157,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -498,12 +738,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Taro + 云开发 打造婚礼邀请函",
+                "homepage": "https://blog.csdn.net/WEIGUO19951107/article/details/88411078",
                 "id": 285001264,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-12T01:41:39Z",
+                "open_issues": 0,
                 "owner": "web-farmer",
                 "repo": "wedding-app",
-                "stars": 73
+                "stars": 73,
+                "topics": [
+                  "redux",
+                  "taro",
+                  "taro2",
+                  "wechat-mini-program",
+                  "wechat-weapp",
+                  "wedding-invitation",
+                  "weui"
+                ]
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -514,12 +767,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "taro components sample",
+                "homepage": null,
                 "id": 137664713,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-03-04T03:28:10Z",
+                "open_issues": 12,
                 "owner": "NervJS",
                 "repo": "taro-components-sample",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -530,12 +788,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TodoMVC with Taro + Redux",
+                "homepage": null,
                 "id": 140439242,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-05-17T04:38:50Z",
+                "open_issues": 8,
                 "owner": "NervJS",
                 "repo": "TodoMVC",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -546,12 +809,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "仿知乎小程序基于Taro框架构建应用程序",
+                "homepage": null,
                 "id": 199185107,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-07-05T09:06:37Z",
+                "open_issues": 0,
                 "owner": "MoonCheung",
                 "repo": "zhihu-applet",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "taro",
+                  "taro-ui"
+                ]
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -562,12 +833,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "taro redux sample",
+                "homepage": null,
                 "id": 136889904,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-01-26T01:54:13Z",
+                "open_issues": 26,
                 "owner": "NervJS",
                 "repo": "taro-redux-sample",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -578,12 +854,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "记日常、GitHub trending资讯小程序 taro-hooks + rematch+云开发",
+                "homepage": null,
                 "id": 175798598,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-12-10T22:56:28Z",
+                "open_issues": 20,
                 "owner": "zhixiaoqiang",
                 "repo": "taroCloud",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "cloud",
+                  "hooks",
+                  "rematch",
+                  "taro",
+                  "taro-ui",
+                  "wx",
+                  "wxapp"
+                ]
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             }
@@ -601,12 +890,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Taro + Redux + 本地 Mock Server 微信小程序示例项目",
+                "homepage": null,
                 "id": 177940766,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-02-13T14:33:28Z",
+                "open_issues": 1,
                 "owner": "imageslr",
                 "repo": "taro-library",
-                "stars": 371
+                "stars": 371,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -617,12 +911,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "云档3.0版本，taro开发。可打包多平台小程序，h5，IOS和Android客户端。欢迎star跟进",
+                "homepage": null,
                 "id": 165042699,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2019-01-22T06:08:41Z",
+                "open_issues": 3,
                 "owner": "SmallRuralDog",
                 "repo": "yundocs",
-                "stars": 151
+                "stars": 151,
+                "topics": [
+                  "taro",
+                  "weapp"
+                ]
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -633,12 +935,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "整合 taro-dvajs的仿知乎示例",
+                "homepage": "https://www.forkjoin.org",
                 "id": 146620801,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-02-23T06:47:26Z",
+                "open_issues": 9,
                 "owner": "zuoge85",
                 "repo": "taro-dva",
-                "stars": 149
+                "stars": 149,
+                "topics": [
+                  "dva",
+                  "react",
+                  "redux",
+                  "redux-saga",
+                  "taro"
+                ]
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -649,12 +962,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Taro 小程序 脚手架 (Taro 3 + Dva + Typescript + Immer) - 内置 Redux 计数器, 异步数据请求 与 腾讯小程序地图 demo",
+                "homepage": null,
                 "id": 167798931,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-03-27T10:18:13Z",
+                "open_issues": 0,
                 "owner": "didilinkin",
                 "repo": "elf-taro",
-                "stars": 69
+                "stars": 69,
+                "topics": [
+                  "cz-customizable",
+                  "dvajs",
+                  "immer",
+                  "lodash",
+                  "taro",
+                  "taro-ui",
+                  "tencent-map-sdk",
+                  "typescript",
+                  "wechat-mini-program"
+                ]
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -665,12 +993,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "多端解决方案示例",
+                "homepage": null,
                 "id": 126961850,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-04-04T06:18:43Z",
+                "open_issues": 5,
                 "owner": "NervJS",
                 "repo": "taro-todo",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -681,12 +1014,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "一套基于taro, zoro的完整的微信小程序及h5开发解决方案",
+                "homepage": null,
                 "id": 157879645,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-26T06:57:37Z",
+                "open_issues": 22,
                 "owner": "FaureWu",
                 "repo": "ztaro",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "h5",
+                  "redux",
+                  "taro",
+                  "weapp",
+                  "zoro"
+                ]
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -697,12 +1041,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "taro的仿知乎例子结合 dva，处理了h5端和小程序端的富文本问题",
+                "homepage": null,
                 "id": 161752394,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-03-13T03:28:01Z",
+                "open_issues": 0,
                 "owner": "zcSkr",
                 "repo": "taro-dva-wxParse",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -713,12 +1062,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💯 taro induction 😁😁",
+                "homepage": null,
                 "id": 160782429,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-01-08T02:34:14Z",
+                "open_issues": 0,
                 "owner": "hyyqcweb",
                 "repo": "taro-gank",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -729,12 +1083,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "taro apis sample",
+                "homepage": null,
                 "id": 144712916,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-03-04T12:32:42Z",
+                "open_issues": 2,
                 "owner": "NervJS",
                 "repo": "taro-apis-sample",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -745,12 +1104,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple todo list demo written by taro, taro-ui, rematch",
+                "homepage": null,
                 "id": 158665780,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-11-26T10:46:58Z",
+                "open_issues": 0,
                 "owner": "qwIvan",
                 "repo": "taro-demo-todolist",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             }
@@ -774,12 +1138,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 325499676,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2021-01-14T07:57:20Z",
+                "open_issues": 1,
                 "owner": "wyzwhp",
                 "repo": "taro-rn-demo",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             }
@@ -797,12 +1166,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎉基于taro + taro-ui + redux + react-hooks + typescript 开发的网易云音乐小程序,taro3已升级完毕，目前正在使用react-hooks重构中（不定时更新）",
+                "homepage": null,
                 "id": 172029743,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-06-13T03:14:42Z",
+                "open_issues": 3,
                 "owner": "lsqy",
                 "repo": "taro-music",
-                "stars": 2010
+                "stars": 2010,
+                "topics": [
+                  "music",
+                  "music-player",
+                  "react",
+                  "react-hooks",
+                  "redux",
+                  "taro",
+                  "taro-music",
+                  "taro-ui",
+                  "typescript",
+                  "weapp"
+                ]
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -813,12 +1198,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hooks Library for Taro",
+                "homepage": "https://next-taro-hooks.pages.dev",
                 "id": 379632117,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-04-06T12:51:26Z",
+                "open_issues": 1,
                 "owner": "innocces",
                 "repo": "taro-hooks",
-                "stars": 452
+                "stars": 452,
+                "topics": [
+                  "api",
+                  "composition-api-vue3",
+                  "es",
+                  "hooks",
+                  "javascript",
+                  "lib",
+                  "library",
+                  "miniprogram",
+                  "monorepo",
+                  "pnpm",
+                  "pnpm-workspaces",
+                  "react",
+                  "react-native",
+                  "rn",
+                  "taro",
+                  "typescript",
+                  "vue",
+                  "web",
+                  "webpack",
+                  "wechat"
+                ]
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -829,12 +1240,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "UI KIT for Taro/vue",
+                "homepage": null,
                 "id": 266048696,
                 "language": "SCSS",
+                "license": "MIT",
                 "last_commit": "2021-08-14T07:46:48Z",
+                "open_issues": 14,
                 "owner": "psaren",
                 "repo": "taro-ui-vue",
-                "stars": 201
+                "stars": 201,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -845,12 +1261,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Taro可视化表单编辑器",
+                "homepage": null,
                 "id": 323080937,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-10-12T01:54:15Z",
+                "open_issues": 4,
                 "owner": "ShaoGongBra",
                 "repo": "taro-form",
-                "stars": 88
+                "stars": 88,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -861,12 +1282,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "这是一款针对自媒体从业者专门开发的微信团购小程序。",
+                "homepage": "https://nice-9goo8zpofac7bee9-1304765945.tcloudbaseapp.com/docs/",
                 "id": 329354053,
                 "language": "SCSS",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-08T01:37:31Z",
+                "open_issues": 0,
                 "owner": "nasawz",
                 "repo": "niceup",
-                "stars": 63
+                "stars": 63,
+                "topics": [
+                  "cloudbase",
+                  "serverless",
+                  "taro",
+                  "tcb",
+                  "wechat-mini-program",
+                  "wechat-pay"
+                ]
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -877,12 +1310,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "微信小程序每日工作量",
+                "homepage": null,
                 "id": 307900380,
                 "language": "Vue",
+                "license": null,
                 "last_commit": "2022-04-25T00:36:26Z",
+                "open_issues": 1,
                 "owner": "whyour",
                 "repo": "mini-work",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -893,12 +1331,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "forum bbs  questionnaire 社区论坛 chartgpt对话机器人 SCL-90测试问卷分析",
+                "homepage": null,
                 "id": 638727262,
                 "language": "CSS",
+                "license": "GPL-3.0",
                 "last_commit": "2023-05-17T02:43:18Z",
+                "open_issues": 0,
                 "owner": "Everytimeyumi",
                 "repo": "hand-in-hand",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -909,12 +1352,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "支持渲染由富文本编辑器编辑的html文本内容，支持小程序、h5、ReactNative，复杂的内容可能并不能正确渲染",
+                "homepage": null,
                 "id": 497821717,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-12-08T09:16:57Z",
+                "open_issues": 2,
                 "owner": "ShaoGongBra",
                 "repo": "taro-html-view",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             }
@@ -932,12 +1380,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎉基于taro + taro-ui + redux + react-hooks + typescript 开发的网易云音乐小程序,taro3已升级完毕，目前正在使用react-hooks重构中（不定时更新）",
+                "homepage": null,
                 "id": 172029743,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-06-13T03:14:42Z",
+                "open_issues": 3,
                 "owner": "lsqy",
                 "repo": "taro-music",
-                "stars": 2010
+                "stars": 2010,
+                "topics": [
+                  "music",
+                  "music-player",
+                  "react",
+                  "react-hooks",
+                  "redux",
+                  "taro",
+                  "taro-music",
+                  "taro-ui",
+                  "typescript",
+                  "weapp"
+                ]
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -948,12 +1412,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Taro_Mall是一款多端开源在线商城应用程序，后台是基于litemall基础上进行开发，前端采用Taro框架编写，现已全部完成小程序和h5移动端，后续会对APP，淘宝，头条，百度小程序进行适配。Taro_Mall已经完成了 litemall 前端的所有功能",
+                "homepage": null,
                 "id": 242662356,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-04-14T02:16:56Z",
+                "open_issues": 16,
                 "owner": "wizard-a",
                 "repo": "taro-mall",
-                "stars": 911
+                "stars": 911,
+                "topics": [
+                  "redux",
+                  "redux-saga",
+                  "taro",
+                  "taro-dva",
+                  "taro-dva-immer",
+                  "taro-ui"
+                ]
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -964,12 +1440,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hi头像——让头像有趣一点。",
+                "homepage": "https://www.xiaoxili.com/hi-face",
                 "id": 236683821,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-03-05T12:12:56Z",
+                "open_issues": 43,
                 "owner": "hi-our",
                 "repo": "hi-face",
-                "stars": 337
+                "stars": 337,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -980,12 +1461,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🧭 一款设计精美、体验优良的地图信息展示小程序，一个更有意思的同学录，可以在小程序中查看班级同学的毕业去向以及地域分布，多联（蹭）系（饭）。",
+                "homepage": null,
                 "id": 273749343,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-12-28T11:28:08Z",
+                "open_issues": 29,
                 "owner": "Mayandev",
                 "repo": "classmate-map",
-                "stars": 156
+                "stars": 156,
+                "topics": [
+                  "taro",
+                  "wechat",
+                  "wechat-mini-program"
+                ]
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -996,12 +1486,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Taro + 云开发 打造婚礼邀请函",
+                "homepage": "https://blog.csdn.net/WEIGUO19951107/article/details/88411078",
                 "id": 285001264,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-12T01:41:39Z",
+                "open_issues": 0,
                 "owner": "web-farmer",
                 "repo": "wedding-app",
-                "stars": 73
+                "stars": 73,
+                "topics": [
+                  "redux",
+                  "taro",
+                  "taro2",
+                  "wechat-mini-program",
+                  "wechat-weapp",
+                  "wedding-invitation",
+                  "weui"
+                ]
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -1012,12 +1515,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Java Mini Weapp Application for Taro and Taro-ui",
+                "homepage": null,
                 "id": 232522468,
                 "language": "Vue",
+                "license": "MIT",
                 "last_commit": "2022-12-11T19:43:50Z",
+                "open_issues": 10,
                 "owner": "moremind",
                 "repo": "MiniBlogApp",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "taro",
+                  "taro-ui",
+                  "weapp",
+                  "weapp-demo",
+                  "wemark"
+                ]
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             }
@@ -1035,12 +1549,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gitter for GitHub - 可能是目前颜值最高的GitHub微信小程序客户端",
+                "homepage": null,
                 "id": 164824151,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2021-08-10T21:32:18Z",
+                "open_issues": 23,
                 "owner": "nslogx",
                 "repo": "Gitter",
-                "stars": 3678
+                "stars": 3678,
+                "topics": [
+                  "github",
+                  "github-api",
+                  "github-client",
+                  "taro",
+                  "weapp"
+                ]
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -1051,12 +1576,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "首个 Taro 多端统一实例 - 网易严选（小程序 + H5 + React Native） - By 趣店 FED",
+                "homepage": null,
                 "id": 168635064,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-10T16:52:43Z",
+                "open_issues": 44,
                 "owner": "js-newbee",
                 "repo": "taro-yanxuan",
-                "stars": 2659
+                "stars": 2659,
+                "topics": [
+                  "react",
+                  "react-native",
+                  "taro"
+                ]
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -1067,12 +1601,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌱用 React 编写的基于Taro + Dva构建的适配不同端（微信/百度/支付宝小程序、H5、React-Native 等）的时装衣橱",
+                "homepage": null,
                 "id": 150409935,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-09T22:17:34Z",
+                "open_issues": 46,
                 "owner": "EasyTuan",
                 "repo": "taro-msparis",
-                "stars": 1354
+                "stars": 1354,
+                "topics": [
+                  "dva",
+                  "react",
+                  "react-native",
+                  "taro",
+                  "wechat",
+                  "wechat-mini-program",
+                  "wxapp"
+                ]
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -1083,12 +1630,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "github上能找到的taro适配Android、iOS、微信小程序、H5最佳实践项目脚手架",
+                "homepage": null,
                 "id": 213607877,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-07-07T22:55:01Z",
+                "open_issues": 7,
                 "owner": "bozaigao",
                 "repo": "Taro-demo",
-                "stars": 282
+                "stars": 282,
+                "topics": [
+                  "android",
+                  "cross-platform",
+                  "h5",
+                  "ios",
+                  "react-native",
+                  "taro",
+                  "wechat"
+                ]
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -1099,12 +1659,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Taro 掘金小册源码",
+                "homepage": null,
                 "id": 157228942,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-04-22T05:07:15Z",
+                "open_issues": 8,
                 "owner": "o2team",
                 "repo": "taro-ebook-source",
-                "stars": 233
+                "stars": 233,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -1115,12 +1680,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔥基于taro + dva + typescript 开发的音乐播放器小程序🎵",
+                "homepage": null,
                 "id": 160288986,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-17T18:19:35Z",
+                "open_issues": 19,
                 "owner": "huangzhuangjia",
                 "repo": "taro-music",
-                "stars": 167
+                "stars": 167,
+                "topics": [
+                  "dva",
+                  "react",
+                  "redux",
+                  "taro",
+                  "typescript",
+                  "weapp"
+                ]
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -1131,12 +1708,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "优秀的taro开源项目",
+                "homepage": null,
                 "id": 200983831,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2022-12-11T01:06:11Z",
+                "open_issues": 20,
                 "owner": "abc-club",
                 "repo": "taro-music-ts",
-                "stars": 68
+                "stars": 68,
+                "topics": [
+                  "dva",
+                  "js",
+                  "react",
+                  "redux",
+                  "sass",
+                  "taro",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             },
@@ -1147,12 +1737,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "一星好评不能再多了，我到现在都没戒烟。Taro+Taro UI",
+                "homepage": null,
                 "id": 162898829,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-03-25T07:02:50Z",
+                "open_issues": 0,
                 "owner": "hugetiny",
                 "repo": "quit-smoking",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
             }
@@ -1174,12 +1769,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于 Taro 框架的微信小程序 canvas 绘图组件，封装了常用的操作，通过配置的方式生成分享图片",
+            "homepage": null,
             "id": 175194512,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-12-10T16:57:47Z",
+            "open_issues": 41,
             "owner": "chuyun",
             "repo": "taro-plugin-canvas",
-            "stars": 516
+            "stars": 516,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:08:14.622Z"
         },
@@ -1190,12 +1790,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hooks Library for Taro",
+            "homepage": "https://next-taro-hooks.pages.dev",
             "id": 379632117,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-04-06T12:51:26Z",
+            "open_issues": 1,
             "owner": "innocces",
             "repo": "taro-hooks",
-            "stars": 452
+            "stars": 452,
+            "topics": [
+              "api",
+              "composition-api-vue3",
+              "es",
+              "hooks",
+              "javascript",
+              "lib",
+              "library",
+              "miniprogram",
+              "monorepo",
+              "pnpm",
+              "pnpm-workspaces",
+              "react",
+              "react-native",
+              "rn",
+              "taro",
+              "typescript",
+              "vue",
+              "web",
+              "webpack",
+              "wechat"
+            ]
           },
           "first_seen": "2026-08-28T17:08:14.622Z"
         },
@@ -1206,12 +1832,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Taro 小程序路由库/自动生成带参数类型提示的路由方法/允许传递任意类型、任意大小的参数数据/同步的路由方法调用/koa体验一致的路由中间件",
+            "homepage": "https://lblblong.github.io/tarojs-router-next/",
             "id": 296557520,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-11T06:58:25Z",
+            "open_issues": 9,
             "owner": "lblblong",
             "repo": "tarojs-router-next",
-            "stars": 253
+            "stars": 253,
+            "topics": [
+              "react",
+              "router",
+              "taro",
+              "tarojs-router"
+            ]
           },
           "first_seen": "2026-08-28T17:08:14.622Z"
         },
@@ -1222,12 +1858,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📜Echarts component library for taro",
+            "homepage": null,
             "id": 164043770,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-12-09T10:10:05Z",
+            "open_issues": 50,
             "owner": "WsmDyj",
             "repo": "echarts-for-taro",
-            "stars": 188
+            "stars": 188,
+            "topics": [
+              "echarts",
+              "taro"
+            ]
           },
           "first_seen": "2026-08-28T17:08:14.622Z"
         },
@@ -1238,12 +1882,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "在 Taro 中使用 axios。",
+            "homepage": "https://www.npmjs.com/package/taro-axios",
             "id": 186935234,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-12-09T15:03:28Z",
+            "open_issues": 7,
             "owner": "fjc0k",
             "repo": "taro-axios",
-            "stars": 140
+            "stars": 140,
+            "topics": [
+              "axios",
+              "taro"
+            ]
           },
           "first_seen": "2026-08-28T17:08:14.622Z"
         },
@@ -1254,12 +1906,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Taro多端F2图表",
+            "homepage": null,
             "id": 159637309,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2019-11-05T12:46:30Z",
+            "open_issues": 35,
             "owner": "xioxin",
             "repo": "taro-f2",
-            "stars": 108
+            "stars": 108,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:08:14.622Z"
         },
@@ -1270,12 +1927,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序 小程序模板 小程序可视化设计工具 Taro Taro UI",
+            "homepage": null,
             "id": 258138655,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2023-02-03T06:13:11Z",
+            "open_issues": 5,
             "owner": "mpfast",
             "repo": "TaroCreator",
-            "stars": 94
+            "stars": 94,
+            "topics": [
+              "taro",
+              "taro-ui"
+            ]
           },
           "first_seen": "2026-08-28T17:08:14.622Z"
         },
@@ -1286,12 +1951,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于 Taro 的小程序组件库。",
+            "homepage": "https://npm.im/mounted",
             "id": 167725550,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2020-06-06T14:26:33Z",
+            "open_issues": 5,
             "owner": "fjc0k",
             "repo": "mounted",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "taro",
+              "taro-components",
+              "weapp",
+              "weapp-components"
+            ]
           },
           "first_seen": "2026-08-28T17:08:14.622Z"
         },
@@ -1302,12 +1977,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 586749337,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-12T10:17:49Z",
+            "open_issues": 3,
             "owner": "wuba",
             "repo": "taro-visualization",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:08:14.622Z"
         },
@@ -1318,12 +1998,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "taro-bdmark支持taro框架下的百度小程序markdown渲染",
+            "homepage": null,
             "id": 176893543,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-03-28T02:24:40Z",
+            "open_issues": 0,
             "owner": "guozimo",
             "repo": "taro-bdMark",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:08:14.622Z"
         },
@@ -1334,12 +2019,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "taro使用svga动画",
+            "homepage": null,
             "id": 730469069,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-12-13T04:00:18Z",
+            "open_issues": 0,
             "owner": "wukongyang",
             "repo": "taro-svga",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:08:14.622Z"
         }
@@ -1348,15 +2038,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:08:14.622Z",
+    "last_updated": "2026-08-29T04:21:41.091Z",
     "original_repository_info": {
       "archived": false,
+      "description": "多端统一开发框架 Taro 优秀学习资源汇总",
+      "homepage": null,
       "id": 156717059,
       "language": null,
+      "license": null,
       "last_commit": "2024-04-11T06:13:51Z",
+      "open_issues": 5,
       "owner": "jd-opensource",
       "repo": "awesome-taro",
-      "stars": 2925
+      "stars": 2925,
+      "topics": []
     },
     "original_repository_sha": "6968cd1988be4cf0e2b2a97d1e90c07e90ff7280",
     "enhanced_repository": "enhansome/enhansome-taro",
