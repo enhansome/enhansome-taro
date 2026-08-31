@@ -15,11 +15,11 @@
             "id": 128624453,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-24T07:32:17Z",
-            "open_issues": 1596,
+            "last_commit": "2026-08-31T09:13:16Z",
+            "open_issues": 1595,
             "owner": "NervJS",
             "repo": "taro",
-            "stars": 37658,
+            "stars": 37659,
             "topics": [
               "javascript",
               "jquery",
@@ -53,7 +53,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-07-30T09:46:04Z",
-            "open_issues": 524,
+            "open_issues": 516,
             "owner": "jd-opensource",
             "repo": "taro-ui",
             "stars": 4728,
@@ -1585,7 +1585,7 @@
                 "open_issues": 44,
                 "owner": "js-newbee",
                 "repo": "taro-yanxuan",
-                "stars": 2659,
+                "stars": 2658,
                 "topics": [
                   "react",
                   "react-native",
@@ -2038,7 +2038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T10:14:47.505Z",
+    "last_updated": "2026-08-31T11:19:53.533Z",
     "original_repository_info": {
       "archived": false,
       "description": "多端统一开发框架 Taro 优秀学习资源汇总",
@@ -2050,7 +2050,7 @@
       "open_issues": 5,
       "owner": "jd-opensource",
       "repo": "awesome-taro",
-      "stars": 2925,
+      "stars": 2926,
       "topics": []
     },
     "original_repository_sha": "6968cd1988be4cf0e2b2a97d1e90c07e90ff7280",
