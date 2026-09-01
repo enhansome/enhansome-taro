@@ -15,11 +15,11 @@
             "id": 128624453,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T09:13:16Z",
-            "open_issues": 1595,
+            "last_commit": "2026-09-01T08:00:45Z",
+            "open_issues": 1601,
             "owner": "NervJS",
             "repo": "taro",
-            "stars": 37659,
+            "stars": 37660,
             "topics": [
               "javascript",
               "jquery",
@@ -53,10 +53,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-07-30T09:46:04Z",
-            "open_issues": 516,
+            "open_issues": 512,
             "owner": "jd-opensource",
             "repo": "taro-ui",
-            "stars": 4728,
+            "stars": 4730,
             "topics": [
               "javascript",
               "nervjs",
@@ -1685,8 +1685,8 @@
                 "id": 160288986,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-08-17T18:19:35Z",
-                "open_issues": 19,
+                "last_commit": "2026-08-31T22:25:16Z",
+                "open_issues": 20,
                 "owner": "huangzhuangjia",
                 "repo": "taro-music",
                 "stars": 167,
@@ -2038,7 +2038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T11:19:53.533Z",
+    "last_updated": "2026-09-01T09:43:48.913Z",
     "original_repository_info": {
       "archived": false,
       "description": "多端统一开发框架 Taro 优秀学习资源汇总",
