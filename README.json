@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-02T05:11:35Z",
-            "open_issues": 1601,
+            "open_issues": 1602,
             "owner": "NervJS",
             "repo": "taro",
-            "stars": 37662,
+            "stars": 37663,
             "topics": [
               "javascript",
               "jquery",
@@ -53,10 +53,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-07-30T09:46:04Z",
-            "open_issues": 510,
+            "open_issues": 509,
             "owner": "jd-opensource",
             "repo": "taro-ui",
-            "stars": 4729,
+            "stars": 4730,
             "topics": [
               "javascript",
               "nervjs",
@@ -1175,7 +1175,7 @@
                 "open_issues": 3,
                 "owner": "lsqy",
                 "repo": "taro-music",
-                "stars": 2010,
+                "stars": 2009,
                 "topics": [
                   "music",
                   "music-player",
@@ -1389,7 +1389,7 @@
                 "open_issues": 3,
                 "owner": "lsqy",
                 "repo": "taro-music",
-                "stars": 2010,
+                "stars": 2009,
                 "topics": [
                   "music",
                   "music-player",
@@ -1685,8 +1685,8 @@
                 "id": 160288986,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-09-01T21:51:17Z",
-                "open_issues": 21,
+                "last_commit": "2026-09-03T05:14:21Z",
+                "open_issues": 22,
                 "owner": "huangzhuangjia",
                 "repo": "taro-music",
                 "stars": 167,
@@ -2038,7 +2038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T09:16:32.830Z",
+    "last_updated": "2026-09-03T09:25:35.119Z",
     "original_repository_info": {
       "archived": false,
       "description": "多端统一开发框架 Taro 优秀学习资源汇总",
