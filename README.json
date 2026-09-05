@@ -19,7 +19,7 @@
             "open_issues": 1602,
             "owner": "NervJS",
             "repo": "taro",
-            "stars": 37664,
+            "stars": 37666,
             "topics": [
               "javascript",
               "jquery",
@@ -1291,7 +1291,7 @@
                 "open_issues": 0,
                 "owner": "nasawz",
                 "repo": "niceup",
-                "stars": 63,
+                "stars": 62,
                 "topics": [
                   "cloudbase",
                   "serverless",
@@ -2038,7 +2038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T09:18:18.614Z",
+    "last_updated": "2026-09-05T08:47:01.032Z",
     "original_repository_info": {
       "archived": false,
       "description": "多端统一开发框架 Taro 优秀学习资源汇总",
@@ -2050,7 +2050,7 @@
       "open_issues": 5,
       "owner": "jd-opensource",
       "repo": "awesome-taro",
-      "stars": 2926,
+      "stars": 2927,
       "topics": []
     },
     "original_repository_sha": "6968cd1988be4cf0e2b2a97d1e90c07e90ff7280",
