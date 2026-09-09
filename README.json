@@ -15,8 +15,8 @@
             "id": 128624453,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-08T02:44:03Z",
-            "open_issues": 1603,
+            "last_commit": "2026-09-08T12:50:58Z",
+            "open_issues": 1602,
             "owner": "NervJS",
             "repo": "taro",
             "stars": 37665,
@@ -56,7 +56,7 @@
             "open_issues": 509,
             "owner": "jd-opensource",
             "repo": "taro-ui",
-            "stars": 4729,
+            "stars": 4730,
             "topics": [
               "javascript",
               "nervjs",
@@ -1270,7 +1270,7 @@
                 "open_issues": 4,
                 "owner": "ShaoGongBra",
                 "repo": "taro-form",
-                "stars": 88,
+                "stars": 87,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
@@ -1421,7 +1421,7 @@
                 "open_issues": 16,
                 "owner": "wizard-a",
                 "repo": "taro-mall",
-                "stars": 911,
+                "stars": 912,
                 "topics": [
                   "redux",
                   "redux-saga",
@@ -2038,7 +2038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T09:20:18.981Z",
+    "last_updated": "2026-09-09T09:22:34.411Z",
     "original_repository_info": {
       "archived": false,
       "description": "多端统一开发框架 Taro 优秀学习资源汇总",
