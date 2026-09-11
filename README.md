@@ -4,7 +4,7 @@
 
 ## 官方资源
 
-* [Taro 项目仓库](https://github.com/NervJS/taro) ⭐ 37,670 | 🐛 1,603 | 🌐 TypeScript | 📅 2026-09-08
+* [Taro 项目仓库](https://github.com/NervJS/taro) ⭐ 37,672 | 🐛 1,603 | 🌐 TypeScript | 📅 2026-09-08
 * [Taro UI 项目仓库](https://github.com/NervJS/taro-ui) ⭐ 4,730 | 🐛 509 | 🌐 TypeScript | 📅 2026-07-30
 * [Taro 官方文档](http://nervjs.github.io/taro)
 * [Taro UI 官方文档](https://taro-ui.jd.com)
@@ -141,7 +141,7 @@
 * 💯 [基于 Taro + Dva 构建的时装衣橱(电商实战项目)](https://github.com/EasyTuan/taro-msparis) ⭐ 1,353 | 🐛 46 | 🌐 JavaScript | 📅 2022-12-09
 * 💯 [github 上能找到的 taro 适配 Android、iOS、微信小程序、H5 最佳实践项目脚手架](https://github.com/bozaigao/Taro-demo) ⭐ 282 | 🐛 7 | 🌐 JavaScript | 📅 2023-07-07
 * [Taro 掘金小册源码](https://github.com/o2team/taro-ebook-source) ⭐ 233 | 🐛 8 | 🌐 JavaScript | 📅 2020-04-22
-* [基于 taro + dva 开发的音乐播放器小程序](https://github.com/huangzhuangjia/taro-music) ⭐ 167 | 🐛 23 | 🌐 TypeScript | 📅 2026-09-09
+* [基于 taro + dva 开发的音乐播放器小程序](https://github.com/huangzhuangjia/taro-music) ⭐ 167 | 🐛 25 | 🌐 TypeScript | 📅 2026-09-11
 * [基于 Taro + dva + Taro-ui + Typescript 开发的网易云音乐小程序](https://github.com/abc-club/taro-music-ts) ⭐ 68 | 🐛 20 | 🌐 HTML | 📅 2022-12-11
 * 💯 [基于 Taro + Taro-ui + dva 开发的公益 App](https://github.com/hugetiny/quit-smoking) ⭐ 49 | 🐛 0 | 🌐 JavaScript | 📅 2020-03-25
 
@@ -164,4 +164,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._

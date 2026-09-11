@@ -19,7 +19,7 @@
             "open_issues": 1603,
             "owner": "NervJS",
             "repo": "taro",
-            "stars": 37670,
+            "stars": 37672,
             "topics": [
               "javascript",
               "jquery",
@@ -1685,8 +1685,8 @@
                 "id": 160288986,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-09-09T22:03:43Z",
-                "open_issues": 23,
+                "last_commit": "2026-09-11T01:17:34Z",
+                "open_issues": 25,
                 "owner": "huangzhuangjia",
                 "repo": "taro-music",
                 "stars": 167,
@@ -2038,7 +2038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T09:22:12.308Z",
+    "last_updated": "2026-09-11T09:20:31.375Z",
     "original_repository_info": {
       "archived": false,
       "description": "多端统一开发框架 Taro 优秀学习资源汇总",
