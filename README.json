@@ -19,7 +19,7 @@
             "open_issues": 1604,
             "owner": "NervJS",
             "repo": "taro",
-            "stars": 37677,
+            "stars": 37678,
             "topics": [
               "javascript",
               "jquery",
@@ -1775,7 +1775,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2022-12-10T16:57:47Z",
-            "open_issues": 41,
+            "open_issues": 40,
             "owner": "chuyun",
             "repo": "taro-plugin-canvas",
             "stars": 516,
@@ -2038,7 +2038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T09:39:33.873Z",
+    "last_updated": "2026-09-17T09:48:06.769Z",
     "original_repository_info": {
       "archived": false,
       "description": "多端统一开发框架 Taro 优秀学习资源汇总",
@@ -2050,7 +2050,7 @@
       "open_issues": 5,
       "owner": "jd-opensource",
       "repo": "awesome-taro",
-      "stars": 2929,
+      "stars": 2928,
       "topics": []
     },
     "original_repository_sha": "6968cd1988be4cf0e2b2a97d1e90c07e90ff7280",

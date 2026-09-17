@@ -4,7 +4,7 @@
 
 ## 官方资源
 
-* [Taro 项目仓库](https://github.com/NervJS/taro) ⭐ 37,677 | 🐛 1,604 | 🌐 TypeScript | 📅 2026-09-14
+* [Taro 项目仓库](https://github.com/NervJS/taro) ⭐ 37,678 | 🐛 1,604 | 🌐 TypeScript | 📅 2026-09-14
 * [Taro UI 项目仓库](https://github.com/NervJS/taro-ui) ⭐ 4,729 | 🐛 509 | 🌐 TypeScript | 📅 2026-07-30
 * [Taro 官方文档](http://nervjs.github.io/taro)
 * [Taro UI 官方文档](https://taro-ui.jd.com)
@@ -147,7 +147,7 @@
 
 ## 第三方库和组件
 
-* [taro-plugin-canvas - 基于 Taro 的小程序海报组件](https://github.com/chuyun/taro-plugin-canvas) ⭐ 516 | 🐛 41 | 🌐 TypeScript | 📅 2022-12-10(Taro 3.x)
+* [taro-plugin-canvas - 基于 Taro 的小程序海报组件](https://github.com/chuyun/taro-plugin-canvas) ⭐ 516 | 🐛 40 | 🌐 TypeScript | 📅 2022-12-10(Taro 3.x)
 * [taro-hooks 为Taro而设计的Hooks Library](https://github.com/innocces/taro-hooks) ⭐ 452 | 🐛 1 | 🌐 TypeScript | 📅 2025-04-06（Taro 3.x）
 * [tarojs-router-next - Taro 路由库/自动生成/任意传参/同步的路由方法调用/路由中间件](https://github.com/lblblong/tarojs-router-next) ⭐ 253 | 🐛 9 | 🌐 TypeScript | 📅 2026-07-11（Taro 3.x）
 * [echarts 图表封装](https://github.com/WsmDyj/echarts-for-taro) ⭐ 188 | 🐛 50 | 🌐 JavaScript | 📅 2022-12-09（Taro 1.x）
@@ -164,4 +164,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
