@@ -19,7 +19,7 @@
             "open_issues": 1604,
             "owner": "NervJS",
             "repo": "taro",
-            "stars": 37678,
+            "stars": 37679,
             "topics": [
               "javascript",
               "jquery",
@@ -1175,7 +1175,7 @@
                 "open_issues": 3,
                 "owner": "lsqy",
                 "repo": "taro-music",
-                "stars": 2008,
+                "stars": 2007,
                 "topics": [
                   "music",
                   "music-player",
@@ -1291,7 +1291,7 @@
                 "open_issues": 0,
                 "owner": "nasawz",
                 "repo": "niceup",
-                "stars": 62,
+                "stars": 63,
                 "topics": [
                   "cloudbase",
                   "serverless",
@@ -1389,7 +1389,7 @@
                 "open_issues": 3,
                 "owner": "lsqy",
                 "repo": "taro-music",
-                "stars": 2008,
+                "stars": 2007,
                 "topics": [
                   "music",
                   "music-player",
@@ -1558,7 +1558,7 @@
                 "open_issues": 23,
                 "owner": "nslogx",
                 "repo": "Gitter",
-                "stars": 3678,
+                "stars": 3677,
                 "topics": [
                   "github",
                   "github-api",
@@ -2038,7 +2038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T09:48:06.769Z",
+    "last_updated": "2026-09-18T09:21:56.813Z",
     "original_repository_info": {
       "archived": false,
       "description": "多端统一开发框架 Taro 优秀学习资源汇总",
@@ -2047,7 +2047,7 @@
       "language": null,
       "license": null,
       "last_commit": "2024-04-11T06:13:51Z",
-      "open_issues": 5,
+      "open_issues": 4,
       "owner": "jd-opensource",
       "repo": "awesome-taro",
       "stars": 2928,
