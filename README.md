@@ -4,7 +4,7 @@
 
 ## 官方资源
 
-* [Taro 项目仓库](https://github.com/NervJS/taro) ⭐ 37,702 | 🐛 1,596 | 🌐 TypeScript | 📅 2026-09-24
+* [Taro 项目仓库](https://github.com/NervJS/taro) ⭐ 37,706 | 🐛 1,596 | 🌐 TypeScript | 📅 2026-09-28
 * [Taro UI 项目仓库](https://github.com/NervJS/taro-ui) ⭐ 4,731 | 🐛 509 | 🌐 TypeScript | 📅 2026-09-25
 * [Taro 官方文档](http://nervjs.github.io/taro)
 * [Taro UI 官方文档](https://taro-ui.jd.com)
@@ -59,7 +59,7 @@
 ### Taro 3.2
 
 * [【58出品】Taro 跨平台 demo，支持 React Native，Weapp，H5](https://github.com/wuba/Taro-Mortgage-Calculator) ⭐ 431 | 🐛 17 | 🌐 TypeScript | 📅 2024-08-05
-* [Taro App 开发调试工具及使用示例](https://github.com/wuba/taro-playground) ⭐ 293 | 🐛 27 | 🌐 TypeScript | 📅 2025-06-04
+* [Taro App 开发调试工具及使用示例](https://github.com/wuba/taro-playground) ⭐ 292 | 🐛 27 | 🌐 TypeScript | 📅 2025-06-04
 * [瑞克和莫蒂wiki，支持 React Native，Weapp，H5](https://github.com/rick-and-morty-wiki/rick-and-morty-wiki) ⭐ 92 | 🐛 4 | 🌐 TypeScript | 📅 2021-11-18
 
 ### Taro 3
@@ -114,7 +114,7 @@
 
 ### Taro3
 
-* [基于 Taro + Taro-ui + Typescript + redux 开发的网易云音乐小程序](https://github.com/lsqy/taro-music/tree/feature_upgrade_taro3.0) ⭐ 2,006 | 🐛 3 | 🌐 TypeScript | 📅 2024-06-13
+* [基于 Taro + Taro-ui + Typescript + redux 开发的网易云音乐小程序](https://github.com/lsqy/taro-music/tree/feature_upgrade_taro3.0) ⭐ 2,007 | 🐛 3 | 🌐 TypeScript | 📅 2024-06-13
 * [taro-hooks 为Taro而设计的Hooks Library](https://github.com/innocces/taro-hooks) ⭐ 452 | 🐛 1 | 🌐 TypeScript | 📅 2025-04-06
 * [Taro UI Vue](https://github.com/psaren/taro-ui-vue) ⚠️ Archived
 * [TaroForm可视化表单编辑](https://github.com/ShaoGongBra/taro-form) ⚠️ Archived
@@ -126,7 +126,7 @@
 
 ### Taro2
 
-* [基于 Taro + Taro-ui + Typescript + redux 开发的网易云音乐小程序](https://github.com/lsqy/taro-music) ⭐ 2,006 | 🐛 3 | 🌐 TypeScript | 📅 2024-06-13
+* [基于 Taro + Taro-ui + Typescript + redux 开发的网易云音乐小程序](https://github.com/lsqy/taro-music) ⭐ 2,007 | 🐛 3 | 🌐 TypeScript | 📅 2024-06-13
 * 💯 [基于 Taro2.0 + dva + Taro-ui + immer 开发的电商小程序](https://github.com/jiechud/taro-mall) ⭐ 913 | 🐛 16 | 🌐 JavaScript | 📅 2025-04-14
 * 💯 [Hi头像](https://github.com/hi-our/hi-face) ⭐ 337 | 🐛 43 | 🌐 JavaScript | 📅 2023-03-05 自带[教程小册](https://www.xiaoxili.com/hi-face)
 * 💯 [基于 Taro2.0 + TypeScript + 云开发的地图同学录小程序](https://github.com/Mayandev/classmate-map) ⭐ 156 | 🐛 29 | 🌐 TypeScript | 📅 2024-12-28
@@ -136,7 +136,7 @@
 
 ### Taro1
 
-* [Taro + Taro-UI GitHub 小程序客户端 Gitter 源码](https://github.com/huangjianke/Gitter) ⭐ 3,678 | 🐛 23 | 🌐 JavaScript | 📅 2021-08-10
+* [Taro + Taro-UI GitHub 小程序客户端 Gitter 源码](https://github.com/huangjianke/Gitter) ⭐ 3,677 | 🐛 23 | 🌐 JavaScript | 📅 2021-08-10
 * 💯 [首个 Taro 多端统一实例 - 网易严选（小程序 + H5 + React Native）](https://github.com/js-newbee/taro-yanxuan) ⭐ 2,658 | 🐛 44 | 🌐 JavaScript | 📅 2022-12-10
 * 💯 [基于 Taro + Dva 构建的时装衣橱(电商实战项目)](https://github.com/EasyTuan/taro-msparis) ⭐ 1,354 | 🐛 46 | 🌐 JavaScript | 📅 2022-12-09
 * 💯 [github 上能找到的 taro 适配 Android、iOS、微信小程序、H5 最佳实践项目脚手架](https://github.com/bozaigao/Taro-demo) ⭐ 282 | 🐛 7 | 🌐 JavaScript | 📅 2023-07-07
@@ -149,8 +149,8 @@
 
 * [taro-plugin-canvas - 基于 Taro 的小程序海报组件](https://github.com/chuyun/taro-plugin-canvas) ⭐ 516 | 🐛 40 | 🌐 TypeScript | 📅 2022-12-10(Taro 3.x)
 * [taro-hooks 为Taro而设计的Hooks Library](https://github.com/innocces/taro-hooks) ⭐ 452 | 🐛 1 | 🌐 TypeScript | 📅 2025-04-06（Taro 3.x）
-* [tarojs-router-next - Taro 路由库/自动生成/任意传参/同步的路由方法调用/路由中间件](https://github.com/lblblong/tarojs-router-next) ⭐ 253 | 🐛 9 | 🌐 TypeScript | 📅 2026-07-11（Taro 3.x）
-* [echarts 图表封装](https://github.com/WsmDyj/echarts-for-taro) ⭐ 188 | 🐛 50 | 🌐 JavaScript | 📅 2022-12-09（Taro 1.x）
+* [tarojs-router-next - Taro 路由库/自动生成/任意传参/同步的路由方法调用/路由中间件](https://github.com/lblblong/tarojs-router-next) ⭐ 253 | 🐛 10 | 🌐 TypeScript | 📅 2026-07-11（Taro 3.x）
+* [echarts 图表封装](https://github.com/WsmDyj/echarts-for-taro) ⭐ 188 | 🐛 49 | 🌐 JavaScript | 📅 2022-12-09（Taro 1.x）
 * [taro-axios - 在 Taro 中使用 axios](https://github.com/fjc0k/taro-axios) ⭐ 140 | 🐛 7 | 🌐 TypeScript | 📅 2022-12-09（Taro 1.x；2.x;3.x）
 * [f2 图表封装 兼容 H5 和微信小程序](https://github.com/xioxin/taro-f2) ⭐ 108 | 🐛 35 | 🌐 TypeScript | 📅 2019-11-05（Taro 1.x）
 * [TaroCreator - 基于Taro UI的小程序可视化设计工具](https://github.com/mpfast/TaroCreator) ⭐ 94 | 🐛 5 | 🌐 Vue | 📅 2023-02-03（Taro 2.x）
@@ -164,4 +164,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._

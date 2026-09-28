@@ -15,11 +15,11 @@
             "id": 128624453,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-24T03:58:23Z",
+            "last_commit": "2026-09-28T09:44:35Z",
             "open_issues": 1596,
             "owner": "NervJS",
             "repo": "taro",
-            "stars": 37702,
+            "stars": 37706,
             "topics": [
               "javascript",
               "jquery",
@@ -261,7 +261,7 @@
                 "open_issues": 27,
                 "owner": "wuba",
                 "repo": "taro-playground",
-                "stars": 293,
+                "stars": 292,
                 "topics": [
                   "android",
                   "app",
@@ -1175,7 +1175,7 @@
                 "open_issues": 3,
                 "owner": "lsqy",
                 "repo": "taro-music",
-                "stars": 2006,
+                "stars": 2007,
                 "topics": [
                   "music",
                   "music-player",
@@ -1389,7 +1389,7 @@
                 "open_issues": 3,
                 "owner": "lsqy",
                 "repo": "taro-music",
-                "stars": 2006,
+                "stars": 2007,
                 "topics": [
                   "music",
                   "music-player",
@@ -1558,7 +1558,7 @@
                 "open_issues": 23,
                 "owner": "nslogx",
                 "repo": "Gitter",
-                "stars": 3678,
+                "stars": 3677,
                 "topics": [
                   "github",
                   "github-api",
@@ -1838,7 +1838,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-07-11T06:58:25Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "lblblong",
             "repo": "tarojs-router-next",
             "stars": 253,
@@ -1864,7 +1864,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2022-12-09T10:10:05Z",
-            "open_issues": 50,
+            "open_issues": 49,
             "owner": "WsmDyj",
             "repo": "echarts-for-taro",
             "stars": 188,
@@ -2038,7 +2038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T10:20:43.969Z",
+    "last_updated": "2026-09-28T11:25:02.276Z",
     "original_repository_info": {
       "archived": false,
       "description": "多端统一开发框架 Taro 优秀学习资源汇总",
