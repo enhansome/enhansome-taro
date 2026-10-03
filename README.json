@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Taro 项目仓库",
-          "description": null,
+          "description": "NervJS/taro",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 1593,
             "owner": "NervJS",
             "repo": "taro",
-            "stars": 37706,
+            "stars": 37707,
             "topics": [
               "javascript",
               "jquery",
@@ -43,7 +43,7 @@
         {
           "node_type": "item",
           "title": "Taro UI 项目仓库",
-          "description": null,
+          "description": "jd-opensource/taro-ui",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -81,7 +81,7 @@
         {
           "node_type": "item",
           "title": "Taro UI Vue",
-          "description": null,
+          "description": "psaren/taro-ui-vue",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -108,7 +108,7 @@
         {
           "node_type": "item",
           "title": "Taro 与 Redux 结合使用教程",
-          "description": null,
+          "description": "imageslr/taro-library",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -135,7 +135,7 @@
         {
           "node_type": "item",
           "title": "封装 Taro.request（拦截器，url 配置等）",
-          "description": null,
+          "description": "TigerHee/taro-request",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -159,7 +159,7 @@
         {
           "node_type": "item",
           "title": "Taro 最佳实践",
-          "description": null,
+          "description": "js-newbee/taro-best-practices",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -182,7 +182,7 @@
         {
           "node_type": "item",
           "title": "使用 axios 完美代替 Taro.request",
-          "description": null,
+          "description": "SpringHgui/axios-taro-adapter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -215,7 +215,7 @@
             {
               "node_type": "item",
               "title": "【58出品】Taro 跨平台 demo，支持 React Native，Weapp，H5",
-              "description": null,
+              "description": "wuba/Taro-Mortgage-Calculator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -248,7 +248,7 @@
             {
               "node_type": "item",
               "title": "Taro App 开发调试工具及使用示例",
-              "description": null,
+              "description": "wuba/taro-playground",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -285,7 +285,7 @@
             {
               "node_type": "item",
               "title": "瑞克和莫蒂wiki，支持 React Native，Weapp，H5",
-              "description": null,
+              "description": "rick-and-morty-wiki/rick-and-morty-wiki",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -313,7 +313,7 @@
             {
               "node_type": "item",
               "title": "仿知乎小程序 React 版",
-              "description": null,
+              "description": "NervJS/taro-zhihu-sample",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -334,7 +334,7 @@
             {
               "node_type": "item",
               "title": "仿知乎小程序 Vue 版",
-              "description": null,
+              "description": "NervJS/taro-zhihu-sample",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -355,7 +355,7 @@
             {
               "node_type": "item",
               "title": "💯 nice-router-taro 脚手架项目，DVA+数据驱动页面+数据驱动表单+数据驱动list",
-              "description": null,
+              "description": "kala888/tixwork",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -386,7 +386,7 @@
             {
               "node_type": "item",
               "title": "与微信小程序原生融合的示例（React版）",
-              "description": null,
+              "description": "NervJS/taro-sample-weapp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -407,7 +407,7 @@
             {
               "node_type": "item",
               "title": "与微信小程序原生融合的示例（Vue版）",
-              "description": null,
+              "description": "NervJS/taro-sample-weapp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -428,7 +428,7 @@
             {
               "node_type": "item",
               "title": "V2ex 小程序（TypeScript） React 版",
-              "description": null,
+              "description": "NervJS/taro-v2ex",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -449,7 +449,7 @@
             {
               "node_type": "item",
               "title": "V2ex 小程序（TypeScript）Vue 版",
-              "description": null,
+              "description": "NervJS/taro-v2ex",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -470,7 +470,7 @@
             {
               "node_type": "item",
               "title": "Taro 示例项目(DVA计数器 | 异步请求 | 腾讯地图): Taro+Dva+Typescript+Immer",
-              "description": null,
+              "description": "didilinkin/elf-taro",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -564,7 +564,7 @@
             {
               "node_type": "item",
               "title": "抖音一键去水印小程序 (Vue版): Taro + 微信云开发",
-              "description": null,
+              "description": "terryso/super9",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -585,7 +585,7 @@
             {
               "node_type": "item",
               "title": "彗星密码本 (React版): Taro + 微信云开发",
-              "description": null,
+              "description": "MuxinFeng/taro-savePassword",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -613,7 +613,7 @@
             {
               "node_type": "item",
               "title": "Taro 脚手架（特性： 封装 api、redux 优雅集成、异常日志上报）",
-              "description": null,
+              "description": "ownx/taro-kit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -640,7 +640,7 @@
             {
               "node_type": "item",
               "title": "仿知乎小程序",
-              "description": null,
+              "description": "NervJS/taro-zhihu-sample",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -661,7 +661,7 @@
             {
               "node_type": "item",
               "title": "💯 nice-router-taro 脚手架项目，DVA+数据驱动页面+数据驱动表单+数据驱动list",
-              "description": null,
+              "description": "kala888/tixwork",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -692,7 +692,7 @@
             {
               "node_type": "item",
               "title": "与微信小程序原生融合的示例",
-              "description": null,
+              "description": "NervJS/taro-sample-weapp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -713,7 +713,7 @@
             {
               "node_type": "item",
               "title": "V2ex 小程序（TypeScript）",
-              "description": null,
+              "description": "NervJS/taro-v2ex",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -734,7 +734,7 @@
             {
               "node_type": "item",
               "title": "基于 + 云开发 打造婚礼邀请函小程序",
-              "description": null,
+              "description": "web-farmer/wedding-app",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -763,7 +763,7 @@
             {
               "node_type": "item",
               "title": "Taro 组件库示例 taro-components-sample",
-              "description": null,
+              "description": "NervJS/taro-components-sample",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -805,7 +805,7 @@
             {
               "node_type": "item",
               "title": "仿知乎小程序: Taro + Taro-UI + yapi API",
-              "description": null,
+              "description": "MoonCheung/zhihu-applet",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -829,7 +829,7 @@
             {
               "node_type": "item",
               "title": "Taro Redux 示例 taro-redux-sample",
-              "description": null,
+              "description": "NervJS/taro-redux-sample",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -850,7 +850,7 @@
             {
               "node_type": "item",
               "title": "记日常小程序 Taro-UI + Rematch + 云开发 + tcb-router",
-              "description": null,
+              "description": "zhixiaoqiang/taroCloud",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -886,7 +886,7 @@
             {
               "node_type": "item",
               "title": "书店小程序： Taro + Redux + 本地 Mock Server 示例项目",
-              "description": null,
+              "description": "imageslr/taro-library",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -907,7 +907,7 @@
             {
               "node_type": "item",
               "title": "知识付费小程序（TypeScript）",
-              "description": null,
+              "description": "SmallRuralDog/yundocs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -931,7 +931,7 @@
             {
               "node_type": "item",
               "title": "Taro 整合 Dva 示例",
-              "description": null,
+              "description": "zuoge85/taro-dva",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -958,7 +958,7 @@
             {
               "node_type": "item",
               "title": "Taro 示例项目(内置 计数器 与 异步请求): Taro + Dva + Typescript + Immutable",
-              "description": null,
+              "description": "didilinkin/elf-taro",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -989,7 +989,7 @@
             {
               "node_type": "item",
               "title": "Taro 实验性特性项目 taro-todo",
-              "description": null,
+              "description": "NervJS/taro-todo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1010,7 +1010,7 @@
             {
               "node_type": "item",
               "title": "taro 结合 zoro 完整方案示例",
-              "description": null,
+              "description": "FaureWu/ztaro",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1037,7 +1037,7 @@
             {
               "node_type": "item",
               "title": "Taro+dva+wxParse 多端富文本解析示例",
-              "description": null,
+              "description": "zcSkr/taro-dva-wxParse",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1058,7 +1058,7 @@
             {
               "node_type": "item",
               "title": "Taro+Taro-UI+es6 入门 demo",
-              "description": null,
+              "description": "hyyqcweb/taro-gank",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1079,7 +1079,7 @@
             {
               "node_type": "item",
               "title": "Taro 端能力示例 taro-apis-sample",
-              "description": null,
+              "description": "NervJS/taro-apis-sample",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1100,7 +1100,7 @@
             {
               "node_type": "item",
               "title": "Taro-UI + Rematch 示例",
-              "description": null,
+              "description": "qwIvan/taro-demo-todolist",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1134,7 +1134,7 @@
             {
               "node_type": "item",
               "title": "taro-rn-demo",
-              "description": null,
+              "description": "wyzwhp/taro-rn-demo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1162,7 +1162,7 @@
             {
               "node_type": "item",
               "title": "基于 Taro + Taro-ui + Typescript + redux 开发的网易云音乐小程序",
-              "description": null,
+              "description": "lsqy/taro-music",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1194,7 +1194,7 @@
             {
               "node_type": "item",
               "title": "taro-hooks 为Taro而设计的Hooks Library",
-              "description": null,
+              "description": "innocces/taro-hooks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1236,7 +1236,7 @@
             {
               "node_type": "item",
               "title": "Taro UI Vue",
-              "description": null,
+              "description": "psaren/taro-ui-vue",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1257,7 +1257,7 @@
             {
               "node_type": "item",
               "title": "TaroForm可视化表单编辑",
-              "description": null,
+              "description": "ShaoGongBra/taro-form",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1278,7 +1278,7 @@
             {
               "node_type": "item",
               "title": "自媒体UP主团购小程序NiceUp(React + TS + 云开发)",
-              "description": null,
+              "description": "nasawz/niceup",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1306,7 +1306,7 @@
             {
               "node_type": "item",
               "title": "微信小程序每日工作量(vue3 + TS + 云开发)",
-              "description": null,
+              "description": "whyour/mini-work",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1327,7 +1327,7 @@
             {
               "node_type": "item",
               "title": "让我们一起手拉手小程序, taro+vue3+ts+pinia,社区、问卷、对话",
-              "description": null,
+              "description": "Everytimeyumi/hand-in-hand",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1348,7 +1348,7 @@
             {
               "node_type": "item",
               "title": "Taro HtmlView 支持将简单的html富文本渲染为Taro组件",
-              "description": null,
+              "description": "ShaoGongBra/taro-html-view",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1376,7 +1376,7 @@
             {
               "node_type": "item",
               "title": "基于 Taro + Taro-ui + Typescript + redux 开发的网易云音乐小程序",
-              "description": null,
+              "description": "lsqy/taro-music",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1408,7 +1408,7 @@
             {
               "node_type": "item",
               "title": "💯 基于 Taro2.0 + dva + Taro-ui + immer 开发的电商小程序",
-              "description": null,
+              "description": "wizard-a/taro-mall",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1457,7 +1457,7 @@
             {
               "node_type": "item",
               "title": "💯 基于 Taro2.0 + TypeScript + 云开发的地图同学录小程序",
-              "description": null,
+              "description": "Mayandev/classmate-map",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1482,7 +1482,7 @@
             {
               "node_type": "item",
               "title": "基于 + 云开发 打造婚礼邀请函小程序",
-              "description": null,
+              "description": "web-farmer/wedding-app",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1511,7 +1511,7 @@
             {
               "node_type": "item",
               "title": "基于 Taro2.0 + dva + Taro-ui + wemark 开发的 markdown 文章博客小程序",
-              "description": null,
+              "description": "moremind/MiniBlogApp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1545,7 +1545,7 @@
             {
               "node_type": "item",
               "title": "Taro + Taro-UI GitHub 小程序客户端 Gitter 源码",
-              "description": null,
+              "description": "nslogx/Gitter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1572,7 +1572,7 @@
             {
               "node_type": "item",
               "title": "💯 首个 Taro 多端统一实例 - 网易严选（小程序 + H5 + React Native）",
-              "description": null,
+              "description": "js-newbee/taro-yanxuan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1597,7 +1597,7 @@
             {
               "node_type": "item",
               "title": "💯 基于 Taro + Dva 构建的时装衣橱(电商实战项目)",
-              "description": null,
+              "description": "EasyTuan/taro-msparis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1626,7 +1626,7 @@
             {
               "node_type": "item",
               "title": "💯 github 上能找到的 taro 适配 Android、iOS、微信小程序、H5 最佳实践项目脚手架",
-              "description": null,
+              "description": "bozaigao/Taro-demo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1655,7 +1655,7 @@
             {
               "node_type": "item",
               "title": "Taro 掘金小册源码",
-              "description": null,
+              "description": "o2team/taro-ebook-source",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1676,7 +1676,7 @@
             {
               "node_type": "item",
               "title": "基于 taro + dva 开发的音乐播放器小程序",
-              "description": null,
+              "description": "huangzhuangjia/taro-music",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1704,7 +1704,7 @@
             {
               "node_type": "item",
               "title": "基于 Taro + dva + Taro-ui + Typescript 开发的网易云音乐小程序",
-              "description": null,
+              "description": "abc-club/taro-music-ts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1733,7 +1733,7 @@
             {
               "node_type": "item",
               "title": "💯 基于 Taro + Taro-ui + dva 开发的公益 App",
-              "description": null,
+              "description": "hugetiny/quit-smoking",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2038,7 +2038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:52:01.224Z",
+    "last_updated": "2026-10-03T05:10:45.027Z",
     "original_repository_info": {
       "archived": false,
       "description": "多端统一开发框架 Taro 优秀学习资源汇总",

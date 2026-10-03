@@ -4,7 +4,7 @@
 
 ## 官方资源
 
-* [Taro 项目仓库](https://github.com/NervJS/taro) ⭐ 37,706 | 🐛 1,593 | 🌐 TypeScript | 📅 2026-09-30
+* [Taro 项目仓库](https://github.com/NervJS/taro) ⭐ 37,707 | 🐛 1,593 | 🌐 TypeScript | 📅 2026-09-30
 * [Taro UI 项目仓库](https://github.com/NervJS/taro-ui) ⭐ 4,731 | 🐛 490 | 🌐 TypeScript | 📅 2026-09-25
 * [Taro 官方文档](http://nervjs.github.io/taro)
 * [Taro UI 官方文档](https://taro-ui.jd.com)
@@ -164,4 +164,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
