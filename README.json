@@ -19,7 +19,7 @@
             "open_issues": 1593,
             "owner": "NervJS",
             "repo": "taro",
-            "stars": 37713,
+            "stars": 37711,
             "topics": [
               "javascript",
               "jquery",
@@ -53,7 +53,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-25T09:56:03Z",
-            "open_issues": 483,
+            "open_issues": 482,
             "owner": "jd-opensource",
             "repo": "taro-ui",
             "stars": 4731,
@@ -1838,7 +1838,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-07-11T06:58:25Z",
-            "open_issues": 10,
+            "open_issues": 9,
             "owner": "lblblong",
             "repo": "tarojs-router-next",
             "stars": 253,
@@ -2038,7 +2038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T10:53:00.408Z",
+    "last_updated": "2026-10-05T12:00:54.767Z",
     "original_repository_info": {
       "archived": false,
       "description": "多端统一开发框架 Taro 优秀学习资源汇总",
