@@ -15,11 +15,11 @@
             "id": 128624453,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-30T06:50:24Z",
-            "open_issues": 1594,
+            "last_commit": "2026-10-09T03:21:55Z",
+            "open_issues": 1595,
             "owner": "NervJS",
             "repo": "taro",
-            "stars": 37710,
+            "stars": 37711,
             "topics": [
               "javascript",
               "jquery",
@@ -56,7 +56,7 @@
             "open_issues": 480,
             "owner": "jd-opensource",
             "repo": "taro-ui",
-            "stars": 4729,
+            "stars": 4728,
             "topics": [
               "javascript",
               "nervjs",
@@ -2038,7 +2038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T11:45:29.352Z",
+    "last_updated": "2026-10-09T11:38:22.239Z",
     "original_repository_info": {
       "archived": false,
       "description": "多端统一开发框架 Taro 优秀学习资源汇总",
@@ -2050,7 +2050,7 @@
       "open_issues": 4,
       "owner": "jd-opensource",
       "repo": "awesome-taro",
-      "stars": 2928,
+      "stars": 2927,
       "topics": []
     },
     "original_repository_sha": "6968cd1988be4cf0e2b2a97d1e90c07e90ff7280",
