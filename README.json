@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-09T03:21:55Z",
-            "open_issues": 1597,
+            "open_issues": 1598,
             "owner": "NervJS",
             "repo": "taro",
-            "stars": 37711,
+            "stars": 37708,
             "topics": [
               "javascript",
               "jquery",
@@ -1585,7 +1585,7 @@
                 "open_issues": 44,
                 "owner": "js-newbee",
                 "repo": "taro-yanxuan",
-                "stars": 2658,
+                "stars": 2657,
                 "topics": [
                   "react",
                   "react-native",
@@ -2038,7 +2038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T10:56:12.519Z",
+    "last_updated": "2026-10-11T11:10:53.436Z",
     "original_repository_info": {
       "archived": false,
       "description": "多端统一开发框架 Taro 优秀学习资源汇总",
