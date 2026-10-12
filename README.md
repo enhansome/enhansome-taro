@@ -4,7 +4,7 @@
 
 ## 官方资源
 
-* [Taro 项目仓库](https://github.com/NervJS/taro) ⭐ 37,708 | 🐛 1,598 | 🌐 TypeScript | 📅 2026-10-09
+* [Taro 项目仓库](https://github.com/NervJS/taro) ⭐ 37,705 | 🐛 1,601 | 🌐 TypeScript | 📅 2026-10-09
 * [Taro UI 项目仓库](https://github.com/NervJS/taro-ui) ⭐ 4,729 | 🐛 480 | 🌐 TypeScript | 📅 2026-09-25
 * [Taro 官方文档](http://nervjs.github.io/taro)
 * [Taro UI 官方文档](https://taro-ui.jd.com)
@@ -137,8 +137,8 @@
 ### Taro1
 
 * [Taro + Taro-UI GitHub 小程序客户端 Gitter 源码](https://github.com/huangjianke/Gitter) ⭐ 3,676 | 🐛 23 | 🌐 JavaScript | 📅 2021-08-10
-* 💯 [首个 Taro 多端统一实例 - 网易严选（小程序 + H5 + React Native）](https://github.com/js-newbee/taro-yanxuan) ⭐ 2,657 | 🐛 44 | 🌐 JavaScript | 📅 2022-12-10
-* 💯 [基于 Taro + Dva 构建的时装衣橱(电商实战项目)](https://github.com/EasyTuan/taro-msparis) ⭐ 1,354 | 🐛 46 | 🌐 JavaScript | 📅 2022-12-09
+* 💯 [首个 Taro 多端统一实例 - 网易严选（小程序 + H5 + React Native）](https://github.com/js-newbee/taro-yanxuan) ⭐ 2,656 | 🐛 44 | 🌐 JavaScript | 📅 2022-12-10
+* 💯 [基于 Taro + Dva 构建的时装衣橱(电商实战项目)](https://github.com/EasyTuan/taro-msparis) ⭐ 1,353 | 🐛 46 | 🌐 JavaScript | 📅 2022-12-09
 * 💯 [github 上能找到的 taro 适配 Android、iOS、微信小程序、H5 最佳实践项目脚手架](https://github.com/bozaigao/Taro-demo) ⭐ 281 | 🐛 7 | 🌐 JavaScript | 📅 2023-07-07
 * [Taro 掘金小册源码](https://github.com/o2team/taro-ebook-source) ⭐ 233 | 🐛 8 | 🌐 JavaScript | 📅 2020-04-22
 * [基于 taro + dva 开发的音乐播放器小程序](https://github.com/huangzhuangjia/taro-music) ⭐ 167 | 🐛 25 | 🌐 TypeScript | 📅 2026-09-13
@@ -152,7 +152,7 @@
 * [tarojs-router-next - Taro 路由库/自动生成/任意传参/同步的路由方法调用/路由中间件](https://github.com/lblblong/tarojs-router-next) ⭐ 253 | 🐛 9 | 🌐 TypeScript | 📅 2026-07-11（Taro 3.x）
 * [echarts 图表封装](https://github.com/WsmDyj/echarts-for-taro) ⭐ 188 | 🐛 49 | 🌐 JavaScript | 📅 2022-12-09（Taro 1.x）
 * [taro-axios - 在 Taro 中使用 axios](https://github.com/fjc0k/taro-axios) ⭐ 140 | 🐛 7 | 🌐 TypeScript | 📅 2022-12-09（Taro 1.x；2.x;3.x）
-* [f2 图表封装 兼容 H5 和微信小程序](https://github.com/xioxin/taro-f2) ⭐ 108 | 🐛 35 | 🌐 TypeScript | 📅 2019-11-05（Taro 1.x）
+* [f2 图表封装 兼容 H5 和微信小程序](https://github.com/xioxin/taro-f2) ⭐ 107 | 🐛 35 | 🌐 TypeScript | 📅 2019-11-05（Taro 1.x）
 * [TaroCreator - 基于Taro UI的小程序可视化设计工具](https://github.com/mpfast/TaroCreator) ⭐ 94 | 🐛 5 | 🌐 Vue | 📅 2023-02-03（Taro 2.x）
 * [Mounted - 一款基于 Taro 的小程序组件库](https://github.com/fjc0k/mounted) ⭐ 67 | 🐛 5 | 🌐 TypeScript | 📅 2020-06-06（Taro 1.x）
 * [taro-visualization Taro 可视化库（charts、3d、Lottie等）](https://github.com/wuba/taro-visualization) ⭐ 45 | 🐛 3 | 🌐 TypeScript | 📅 2024-06-12（Taro 3.x）
@@ -164,4 +164,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
