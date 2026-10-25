@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-23T10:37:02Z",
-            "open_issues": 1590,
+            "open_issues": 1593,
             "owner": "NervJS",
             "repo": "taro",
-            "stars": 37733,
+            "stars": 37734,
             "topics": [
               "javascript",
               "jquery",
@@ -1558,7 +1558,7 @@
                 "open_issues": 23,
                 "owner": "nslogx",
                 "repo": "Gitter",
-                "stars": 3678,
+                "stars": 3679,
                 "topics": [
                   "github",
                   "github-api",
@@ -2038,7 +2038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T09:16:48.939Z",
+    "last_updated": "2026-10-25T09:33:07.470Z",
     "original_repository_info": {
       "archived": false,
       "description": "多端统一开发框架 Taro 优秀学习资源汇总",
