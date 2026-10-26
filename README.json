@@ -15,11 +15,11 @@
             "id": 128624453,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T10:37:02Z",
-            "open_issues": 1593,
+            "last_commit": "2026-10-26T07:43:53Z",
+            "open_issues": 1595,
             "owner": "NervJS",
             "repo": "taro",
-            "stars": 37734,
+            "stars": 37739,
             "topics": [
               "javascript",
               "jquery",
@@ -920,7 +920,7 @@
                 "open_issues": 3,
                 "owner": "SmallRuralDog",
                 "repo": "yundocs",
-                "stars": 151,
+                "stars": 152,
                 "topics": [
                   "taro",
                   "weapp"
@@ -1639,7 +1639,7 @@
                 "open_issues": 7,
                 "owner": "bozaigao",
                 "repo": "Taro-demo",
-                "stars": 281,
+                "stars": 282,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -2038,7 +2038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T09:33:07.470Z",
+    "last_updated": "2026-10-26T10:44:26.601Z",
     "original_repository_info": {
       "archived": false,
       "description": "多端统一开发框架 Taro 优秀学习资源汇总",
@@ -2050,7 +2050,7 @@
       "open_issues": 4,
       "owner": "jd-opensource",
       "repo": "awesome-taro",
-      "stars": 2926,
+      "stars": 2928,
       "topics": []
     },
     "original_repository_sha": "6968cd1988be4cf0e2b2a97d1e90c07e90ff7280",
