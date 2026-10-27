@@ -15,11 +15,11 @@
             "id": 128624453,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-26T07:43:53Z",
-            "open_issues": 1595,
+            "last_commit": "2026-10-27T09:21:36Z",
+            "open_issues": 1591,
             "owner": "NervJS",
             "repo": "taro",
-            "stars": 37739,
+            "stars": 37740,
             "topics": [
               "javascript",
               "jquery",
@@ -368,7 +368,7 @@
                 "open_issues": 5,
                 "owner": "kala888",
                 "repo": "tixwork",
-                "stars": 316,
+                "stars": 315,
                 "topics": [
                   "java",
                   "lowcode",
@@ -674,7 +674,7 @@
                 "open_issues": 5,
                 "owner": "kala888",
                 "repo": "tixwork",
-                "stars": 316,
+                "stars": 315,
                 "topics": [
                   "java",
                   "lowcode",
@@ -1421,7 +1421,7 @@
                 "open_issues": 16,
                 "owner": "wizard-a",
                 "repo": "taro-mall",
-                "stars": 913,
+                "stars": 912,
                 "topics": [
                   "redux",
                   "redux-saga",
@@ -1610,7 +1610,7 @@
                 "open_issues": 46,
                 "owner": "EasyTuan",
                 "repo": "taro-msparis",
-                "stars": 1353,
+                "stars": 1352,
                 "topics": [
                   "dva",
                   "react",
@@ -1778,7 +1778,7 @@
             "open_issues": 40,
             "owner": "chuyun",
             "repo": "taro-plugin-canvas",
-            "stars": 516,
+            "stars": 515,
             "topics": []
           },
           "first_seen": "2026-08-28T17:08:14.622Z"
@@ -2038,7 +2038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T10:44:26.601Z",
+    "last_updated": "2026-10-27T10:10:55.818Z",
     "original_repository_info": {
       "archived": false,
       "description": "多端统一开发框架 Taro 优秀学习资源汇总",
