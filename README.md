@@ -4,8 +4,8 @@
 
 ## 官方资源
 
-* [Taro 项目仓库](https://github.com/NervJS/taro) ⭐ 37,737 | 🐛 1,597 | 🌐 TypeScript | 📅 2026-10-29
-* [Taro UI 项目仓库](https://github.com/NervJS/taro-ui) ⭐ 4,730 | 🐛 482 | 🌐 TypeScript | 📅 2026-09-25
+* [Taro 项目仓库](https://github.com/NervJS/taro) ⭐ 37,740 | 🐛 1,589 | 🌐 TypeScript | 📅 2026-10-30
+* [Taro UI 项目仓库](https://github.com/NervJS/taro-ui) ⭐ 4,732 | 🐛 482 | 🌐 TypeScript | 📅 2026-09-25
 * [Taro 官方文档](http://nervjs.github.io/taro)
 * [Taro UI 官方文档](https://taro-ui.jd.com)
 * [微信小程序官方文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
@@ -80,7 +80,7 @@
 
 ### Taro 2
 
-* [Taro 脚手架（特性： 封装 api、redux 优雅集成、异常日志上报）](https://github.com/wsdo/taro-kit.git) ⭐ 704 | 🐛 8 | 🌐 TypeScript | 📅 2021-11-30
+* [Taro 脚手架（特性： 封装 api、redux 优雅集成、异常日志上报）](https://github.com/wsdo/taro-kit.git) ⭐ 705 | 🐛 8 | 🌐 TypeScript | 📅 2021-11-30
 * [仿知乎小程序](https://github.com/NervJS/taro-zhihu-sample) ⭐ 351 | 🐛 24 | 🌐 JavaScript | 📅 2023-03-04
 * 💯 [nice-router-taro 脚手架项目，DVA+数据驱动页面+数据驱动表单+数据驱动list](https://github.com/kala888/nice-router-taro/tree/taro2) ⭐ 315 | 🐛 5 | 🌐 Java | 📅 2024-05-23
 * [与微信小程序原生融合的示例](https://github.com/NervJS/taro-sample-weapp) ⭐ 164 | 🐛 39 | 🌐 JavaScript | 📅 2023-01-07
@@ -164,4 +164,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
