@@ -15,8 +15,8 @@
             "id": 128624453,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-06T09:10:03Z",
-            "open_issues": 1599,
+            "last_commit": "2026-11-09T13:12:32Z",
+            "open_issues": 1596,
             "owner": "NervJS",
             "repo": "taro",
             "stars": 37742,
@@ -53,7 +53,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-25T09:56:03Z",
-            "open_issues": 456,
+            "open_issues": 434,
             "owner": "jd-opensource",
             "repo": "taro-ui",
             "stars": 4732,
@@ -1175,7 +1175,7 @@
                 "open_issues": 3,
                 "owner": "lsqy",
                 "repo": "taro-music",
-                "stars": 2003,
+                "stars": 2004,
                 "topics": [
                   "music",
                   "music-player",
@@ -1389,7 +1389,7 @@
                 "open_issues": 3,
                 "owner": "lsqy",
                 "repo": "taro-music",
-                "stars": 2003,
+                "stars": 2004,
                 "topics": [
                   "music",
                   "music-player",
@@ -2038,7 +2038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T11:40:17.914Z",
+    "last_updated": "2026-11-09T13:35:19.876Z",
     "original_repository_info": {
       "archived": false,
       "description": "多端统一开发框架 Taro 优秀学习资源汇总",
