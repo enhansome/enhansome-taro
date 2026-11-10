@@ -15,11 +15,11 @@
             "id": 128624453,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-09T13:12:32Z",
-            "open_issues": 1596,
+            "last_commit": "2026-11-10T12:42:57Z",
+            "open_issues": 1581,
             "owner": "NervJS",
             "repo": "taro",
-            "stars": 37742,
+            "stars": 37744,
             "topics": [
               "javascript",
               "jquery",
@@ -121,7 +121,7 @@
             "open_issues": 1,
             "owner": "imageslr",
             "repo": "taro-library",
-            "stars": 371,
+            "stars": 372,
             "topics": []
           },
           "first_seen": "2026-08-28T17:08:14.622Z"
@@ -368,7 +368,7 @@
                 "open_issues": 5,
                 "owner": "kala888",
                 "repo": "tixwork",
-                "stars": 314,
+                "stars": 315,
                 "topics": [
                   "java",
                   "lowcode",
@@ -674,7 +674,7 @@
                 "open_issues": 5,
                 "owner": "kala888",
                 "repo": "tixwork",
-                "stars": 314,
+                "stars": 315,
                 "topics": [
                   "java",
                   "lowcode",
@@ -899,7 +899,7 @@
                 "open_issues": 1,
                 "owner": "imageslr",
                 "repo": "taro-library",
-                "stars": 371,
+                "stars": 372,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:08:14.622Z"
@@ -1175,7 +1175,7 @@
                 "open_issues": 3,
                 "owner": "lsqy",
                 "repo": "taro-music",
-                "stars": 2004,
+                "stars": 2005,
                 "topics": [
                   "music",
                   "music-player",
@@ -1207,7 +1207,7 @@
                 "open_issues": 1,
                 "owner": "innocces",
                 "repo": "taro-hooks",
-                "stars": 452,
+                "stars": 453,
                 "topics": [
                   "api",
                   "composition-api-vue3",
@@ -1389,7 +1389,7 @@
                 "open_issues": 3,
                 "owner": "lsqy",
                 "repo": "taro-music",
-                "stars": 2004,
+                "stars": 2005,
                 "topics": [
                   "music",
                   "music-player",
@@ -1558,7 +1558,7 @@
                 "open_issues": 23,
                 "owner": "nslogx",
                 "repo": "Gitter",
-                "stars": 3680,
+                "stars": 3678,
                 "topics": [
                   "github",
                   "github-api",
@@ -1778,7 +1778,7 @@
             "open_issues": 40,
             "owner": "chuyun",
             "repo": "taro-plugin-canvas",
-            "stars": 515,
+            "stars": 514,
             "topics": []
           },
           "first_seen": "2026-08-28T17:08:14.622Z"
@@ -1799,7 +1799,7 @@
             "open_issues": 1,
             "owner": "innocces",
             "repo": "taro-hooks",
-            "stars": 452,
+            "stars": 453,
             "topics": [
               "api",
               "composition-api-vue3",
@@ -2038,7 +2038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T13:35:19.876Z",
+    "last_updated": "2026-11-10T13:13:34.309Z",
     "original_repository_info": {
       "archived": false,
       "description": "多端统一开发框架 Taro 优秀学习资源汇总",
