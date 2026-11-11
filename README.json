@@ -15,11 +15,11 @@
             "id": 128624453,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-10T12:42:57Z",
+            "last_commit": "2026-11-11T09:52:09Z",
             "open_issues": 1581,
             "owner": "NervJS",
             "repo": "taro",
-            "stars": 37744,
+            "stars": 37747,
             "topics": [
               "javascript",
               "jquery",
@@ -1421,7 +1421,7 @@
                 "open_issues": 16,
                 "owner": "wizard-a",
                 "repo": "taro-mall",
-                "stars": 912,
+                "stars": 911,
                 "topics": [
                   "redux",
                   "redux-saga",
@@ -2038,7 +2038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T13:13:34.309Z",
+    "last_updated": "2026-11-11T12:24:31.816Z",
     "original_repository_info": {
       "archived": false,
       "description": "多端统一开发框架 Taro 优秀学习资源汇总",
