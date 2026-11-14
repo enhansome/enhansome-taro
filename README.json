@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-11-13T11:19:13Z",
-            "open_issues": 1573,
+            "open_issues": 1601,
             "owner": "NervJS",
             "repo": "taro",
-            "stars": 37752,
+            "stars": 37753,
             "topics": [
               "javascript",
               "jquery",
@@ -228,7 +228,7 @@
                 "open_issues": 17,
                 "owner": "wuba",
                 "repo": "Taro-Mortgage-Calculator",
-                "stars": 431,
+                "stars": 430,
                 "topics": [
                   "cross-platform",
                   "miniprogram",
@@ -1175,7 +1175,7 @@
                 "open_issues": 3,
                 "owner": "lsqy",
                 "repo": "taro-music",
-                "stars": 2005,
+                "stars": 2006,
                 "topics": [
                   "music",
                   "music-player",
@@ -1389,7 +1389,7 @@
                 "open_issues": 3,
                 "owner": "lsqy",
                 "repo": "taro-music",
-                "stars": 2005,
+                "stars": 2006,
                 "topics": [
                   "music",
                   "music-player",
@@ -1558,7 +1558,7 @@
                 "open_issues": 23,
                 "owner": "nslogx",
                 "repo": "Gitter",
-                "stars": 3678,
+                "stars": 3677,
                 "topics": [
                   "github",
                   "github-api",
@@ -2038,7 +2038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T12:50:51.487Z",
+    "last_updated": "2026-11-14T11:55:16.621Z",
     "original_repository_info": {
       "archived": false,
       "description": "多端统一开发框架 Taro 优秀学习资源汇总",
@@ -2050,7 +2050,7 @@
       "open_issues": 4,
       "owner": "jd-opensource",
       "repo": "awesome-taro",
-      "stars": 2925,
+      "stars": 2923,
       "topics": []
     },
     "original_repository_sha": "6968cd1988be4cf0e2b2a97d1e90c07e90ff7280",
