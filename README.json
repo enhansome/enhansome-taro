@@ -15,11 +15,11 @@
             "id": 128624453,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-13T11:19:13Z",
-            "open_issues": 1603,
+            "last_commit": "2026-11-16T12:38:05Z",
+            "open_issues": 1596,
             "owner": "NervJS",
             "repo": "taro",
-            "stars": 37754,
+            "stars": 37755,
             "topics": [
               "javascript",
               "jquery",
@@ -1778,7 +1778,7 @@
             "open_issues": 40,
             "owner": "chuyun",
             "repo": "taro-plugin-canvas",
-            "stars": 514,
+            "stars": 513,
             "topics": []
           },
           "first_seen": "2026-08-28T17:08:14.622Z"
@@ -2038,7 +2038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T12:27:45.077Z",
+    "last_updated": "2026-11-16T13:19:54.719Z",
     "original_repository_info": {
       "archived": false,
       "description": "多端统一开发框架 Taro 优秀学习资源汇总",
