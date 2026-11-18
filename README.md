@@ -4,7 +4,7 @@
 
 ## 官方资源
 
-* [Taro 项目仓库](https://github.com/NervJS/taro) ⭐ 37,753 | 🐛 1,595 | 🌐 TypeScript | 📅 2026-11-17
+* [Taro 项目仓库](https://github.com/NervJS/taro) ⭐ 37,755 | 🐛 1,594 | 🌐 TypeScript | 📅 2026-11-18
 * [Taro UI 项目仓库](https://github.com/NervJS/taro-ui) ⭐ 4,731 | 🐛 434 | 🌐 TypeScript | 📅 2026-09-25
 * [Taro 官方文档](http://nervjs.github.io/taro)
 * [Taro UI 官方文档](https://taro-ui.jd.com)
@@ -50,7 +50,7 @@
 ## 开发技巧
 
 * [封装 Taro.request（拦截器，url 配置等）](https://github.com/TigerHee/taro-request) ⭐ 249 | 🐛 4 | 🌐 JavaScript | 📅 2019-12-02
-* [Taro 最佳实践](https://github.com/js-newbee/taro-best-practices) ⭐ 127 | 🐛 2 | 📅 2019-03-07
+* [Taro 最佳实践](https://github.com/js-newbee/taro-best-practices) ⭐ 126 | 🐛 2 | 📅 2019-03-07
 * [使用 axios 完美代替 Taro.request](https://github.com/SpringHgui/axios-taro-adapter) ⭐ 29 | 🐛 1 | 🌐 JavaScript | 📅 2023-01-26
 * [微信小程序 wx.request 对于 JSON 含 \u2028 处理异常](https://segmentfault.com/a/1190000015443614)
 
@@ -164,4 +164,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
