@@ -4,8 +4,8 @@
 
 ## 官方资源
 
-* [Taro 项目仓库](https://github.com/NervJS/taro) ⭐ 37,755 | 🐛 1,594 | 🌐 TypeScript | 📅 2026-11-18
-* [Taro UI 项目仓库](https://github.com/NervJS/taro-ui) ⭐ 4,731 | 🐛 434 | 🌐 TypeScript | 📅 2026-09-25
+* [Taro 项目仓库](https://github.com/NervJS/taro) ⭐ 37,757 | 🐛 1,594 | 🌐 TypeScript | 📅 2026-11-18
+* [Taro UI 项目仓库](https://github.com/NervJS/taro-ui) ⭐ 4,730 | 🐛 434 | 🌐 TypeScript | 📅 2026-09-25
 * [Taro 官方文档](http://nervjs.github.io/taro)
 * [Taro UI 官方文档](https://taro-ui.jd.com)
 * [微信小程序官方文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
@@ -51,7 +51,7 @@
 
 * [封装 Taro.request（拦截器，url 配置等）](https://github.com/TigerHee/taro-request) ⭐ 249 | 🐛 4 | 🌐 JavaScript | 📅 2019-12-02
 * [Taro 最佳实践](https://github.com/js-newbee/taro-best-practices) ⭐ 126 | 🐛 2 | 📅 2019-03-07
-* [使用 axios 完美代替 Taro.request](https://github.com/SpringHgui/axios-taro-adapter) ⭐ 29 | 🐛 1 | 🌐 JavaScript | 📅 2023-01-26
+* [使用 axios 完美代替 Taro.request](https://github.com/SpringHgui/axios-taro-adapter) ⭐ 30 | 🐛 1 | 🌐 JavaScript | 📅 2023-01-26
 * [微信小程序 wx.request 对于 JSON 含 \u2028 处理异常](https://segmentfault.com/a/1190000015443614)
 
 ## 示例项目
@@ -114,7 +114,7 @@
 
 ### Taro3
 
-* [基于 Taro + Taro-ui + Typescript + redux 开发的网易云音乐小程序](https://github.com/lsqy/taro-music/tree/feature_upgrade_taro3.0) ⭐ 2,006 | 🐛 3 | 🌐 TypeScript | 📅 2024-06-13
+* [基于 Taro + Taro-ui + Typescript + redux 开发的网易云音乐小程序](https://github.com/lsqy/taro-music/tree/feature_upgrade_taro3.0) ⭐ 2,007 | 🐛 3 | 🌐 TypeScript | 📅 2024-06-13
 * [taro-hooks 为Taro而设计的Hooks Library](https://github.com/innocces/taro-hooks) ⭐ 453 | 🐛 1 | 🌐 TypeScript | 📅 2025-04-06
 * [Taro UI Vue](https://github.com/psaren/taro-ui-vue) ⚠️ Archived
 * [TaroForm可视化表单编辑](https://github.com/ShaoGongBra/taro-form) ⚠️ Archived
@@ -126,7 +126,7 @@
 
 ### Taro2
 
-* [基于 Taro + Taro-ui + Typescript + redux 开发的网易云音乐小程序](https://github.com/lsqy/taro-music) ⭐ 2,006 | 🐛 3 | 🌐 TypeScript | 📅 2024-06-13
+* [基于 Taro + Taro-ui + Typescript + redux 开发的网易云音乐小程序](https://github.com/lsqy/taro-music) ⭐ 2,007 | 🐛 3 | 🌐 TypeScript | 📅 2024-06-13
 * 💯 [基于 Taro2.0 + dva + Taro-ui + immer 开发的电商小程序](https://github.com/jiechud/taro-mall) ⭐ 912 | 🐛 16 | 🌐 JavaScript | 📅 2025-04-14
 * 💯 [Hi头像](https://github.com/hi-our/hi-face) ⭐ 336 | 🐛 43 | 🌐 JavaScript | 📅 2023-03-05 自带[教程小册](https://www.xiaoxili.com/hi-face)
 * 💯 [基于 Taro2.0 + TypeScript + 云开发的地图同学录小程序](https://github.com/Mayandev/classmate-map) ⭐ 156 | 🐛 29 | 🌐 TypeScript | 📅 2024-12-28
@@ -150,7 +150,7 @@
 * [taro-plugin-canvas - 基于 Taro 的小程序海报组件](https://github.com/chuyun/taro-plugin-canvas) ⭐ 513 | 🐛 40 | 🌐 TypeScript | 📅 2022-12-10(Taro 3.x)
 * [taro-hooks 为Taro而设计的Hooks Library](https://github.com/innocces/taro-hooks) ⭐ 453 | 🐛 1 | 🌐 TypeScript | 📅 2025-04-06（Taro 3.x）
 * [tarojs-router-next - Taro 路由库/自动生成/任意传参/同步的路由方法调用/路由中间件](https://github.com/lblblong/tarojs-router-next) ⭐ 253 | 🐛 9 | 🌐 TypeScript | 📅 2026-07-11（Taro 3.x）
-* [echarts 图表封装](https://github.com/WsmDyj/echarts-for-taro) ⭐ 187 | 🐛 49 | 🌐 JavaScript | 📅 2022-12-09（Taro 1.x）
+* [echarts 图表封装](https://github.com/WsmDyj/echarts-for-taro) ⭐ 186 | 🐛 49 | 🌐 JavaScript | 📅 2022-12-09（Taro 1.x）
 * [taro-axios - 在 Taro 中使用 axios](https://github.com/fjc0k/taro-axios) ⭐ 140 | 🐛 7 | 🌐 TypeScript | 📅 2022-12-09（Taro 1.x；2.x;3.x）
 * [f2 图表封装 兼容 H5 和微信小程序](https://github.com/xioxin/taro-f2) ⭐ 107 | 🐛 35 | 🌐 TypeScript | 📅 2019-11-05（Taro 1.x）
 * [TaroCreator - 基于Taro UI的小程序可视化设计工具](https://github.com/mpfast/TaroCreator) ⭐ 94 | 🐛 5 | 🌐 Vue | 📅 2023-02-03（Taro 2.x）
@@ -164,4 +164,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
