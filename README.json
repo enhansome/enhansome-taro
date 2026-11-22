@@ -19,7 +19,7 @@
             "open_issues": 1596,
             "owner": "NervJS",
             "repo": "taro",
-            "stars": 37764,
+            "stars": 37765,
             "topics": [
               "javascript",
               "jquery",
@@ -2038,7 +2038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T13:13:03.550Z",
+    "last_updated": "2026-11-22T13:02:47.203Z",
     "original_repository_info": {
       "archived": false,
       "description": "多端统一开发框架 Taro 优秀学习资源汇总",
