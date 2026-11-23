@@ -4,7 +4,7 @@
 
 ## 官方资源
 
-* [Taro 项目仓库](https://github.com/NervJS/taro) ⭐ 37,765 | 🐛 1,596 | 🌐 TypeScript | 📅 2026-11-18
+* [Taro 项目仓库](https://github.com/NervJS/taro) ⭐ 37,767 | 🐛 1,588 | 🌐 TypeScript | 📅 2026-11-23
 * [Taro UI 项目仓库](https://github.com/NervJS/taro-ui) ⭐ 4,729 | 🐛 433 | 🌐 TypeScript | 📅 2026-09-25
 * [Taro 官方文档](http://nervjs.github.io/taro)
 * [Taro UI 官方文档](https://taro-ui.jd.com)
@@ -129,7 +129,7 @@
 * [基于 Taro + Taro-ui + Typescript + redux 开发的网易云音乐小程序](https://github.com/lsqy/taro-music) ⭐ 2,006 | 🐛 3 | 🌐 TypeScript | 📅 2024-06-13
 * 💯 [基于 Taro2.0 + dva + Taro-ui + immer 开发的电商小程序](https://github.com/jiechud/taro-mall) ⭐ 912 | 🐛 16 | 🌐 JavaScript | 📅 2025-04-14
 * 💯 [Hi头像](https://github.com/hi-our/hi-face) ⭐ 336 | 🐛 43 | 🌐 JavaScript | 📅 2023-03-05 自带[教程小册](https://www.xiaoxili.com/hi-face)
-* 💯 [基于 Taro2.0 + TypeScript + 云开发的地图同学录小程序](https://github.com/Mayandev/classmate-map) ⭐ 156 | 🐛 29 | 🌐 TypeScript | 📅 2024-12-28
+* 💯 [基于 Taro2.0 + TypeScript + 云开发的地图同学录小程序](https://github.com/Mayandev/classmate-map) ⭐ 155 | 🐛 29 | 🌐 TypeScript | 📅 2024-12-28
 * [基于`Taro2` + 云开发 打造婚礼邀请函小程序](https://github.com/wforguo/wedding-app) ⭐ 73 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-12
 * [基于 Taro2.0 + dva + Taro-ui + wemark 开发的 markdown 文章博客小程序](https://github.com/hirCodd/JavaNorthMiniApp.git) ⭐ 9 | 🐛 10 | 🌐 Vue | 📅 2022-12-11
 *
@@ -164,4 +164,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
