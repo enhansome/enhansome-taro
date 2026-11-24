@@ -15,11 +15,11 @@
             "id": 128624453,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-23T12:57:41Z",
-            "open_issues": 1588,
+            "last_commit": "2026-11-24T13:26:37Z",
+            "open_issues": 1586,
             "owner": "NervJS",
             "repo": "taro",
-            "stars": 37767,
+            "stars": 37765,
             "topics": [
               "javascript",
               "jquery",
@@ -56,7 +56,7 @@
             "open_issues": 433,
             "owner": "jd-opensource",
             "repo": "taro-ui",
-            "stars": 4729,
+            "stars": 4728,
             "topics": [
               "javascript",
               "nervjs",
@@ -261,7 +261,7 @@
                 "open_issues": 27,
                 "owner": "wuba",
                 "repo": "taro-playground",
-                "stars": 292,
+                "stars": 291,
                 "topics": [
                   "android",
                   "app",
@@ -1175,7 +1175,7 @@
                 "open_issues": 3,
                 "owner": "lsqy",
                 "repo": "taro-music",
-                "stars": 2006,
+                "stars": 2005,
                 "topics": [
                   "music",
                   "music-player",
@@ -1207,7 +1207,7 @@
                 "open_issues": 1,
                 "owner": "innocces",
                 "repo": "taro-hooks",
-                "stars": 452,
+                "stars": 451,
                 "topics": [
                   "api",
                   "composition-api-vue3",
@@ -1389,7 +1389,7 @@
                 "open_issues": 3,
                 "owner": "lsqy",
                 "repo": "taro-music",
-                "stars": 2006,
+                "stars": 2005,
                 "topics": [
                   "music",
                   "music-player",
@@ -1799,7 +1799,7 @@
             "open_issues": 1,
             "owner": "innocces",
             "repo": "taro-hooks",
-            "stars": 452,
+            "stars": 451,
             "topics": [
               "api",
               "composition-api-vue3",
@@ -2038,7 +2038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T15:39:09.139Z",
+    "last_updated": "2026-11-24T15:29:31.943Z",
     "original_repository_info": {
       "archived": false,
       "description": "多端统一开发框架 Taro 优秀学习资源汇总",
